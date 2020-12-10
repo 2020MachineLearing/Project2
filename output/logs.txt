@@ -1,0 +1,226 @@
+Training...
+MyModel|dailydialog@gpu0 epo:[1/10] iter:[100/1188] step_time:5s elapsed:0:0:5<0:0:59
+{'train_loss': 5.200043678283691}
+MyModel|dailydialog@gpu0 epo:[1/10] iter:[200/1188] step_time:4s elapsed:0:0:9<0:0:48
+{'train_loss': 5.231085777282715}
+MyModel|dailydialog@gpu0 epo:[1/10] iter:[300/1188] step_time:4s elapsed:0:0:14<0:0:41
+{'train_loss': 4.976045608520508}
+MyModel|dailydialog@gpu0 epo:[1/10] iter:[400/1188] step_time:4s elapsed:0:0:18<0:0:36
+{'train_loss': 4.917187690734863}
+MyModel|dailydialog@gpu0 epo:[1/10] iter:[500/1188] step_time:4s elapsed:0:0:22<0:0:31
+{'train_loss': 4.728878498077393}
+MyModel|dailydialog@gpu0 epo:[1/10] iter:[600/1188] step_time:4s elapsed:0:0:27<0:0:26
+{'train_loss': 4.5007171630859375}
+MyModel|dailydialog@gpu0 epo:[1/10] iter:[700/1188] step_time:4s elapsed:0:0:31<0:0:21
+{'train_loss': 4.743600845336914}
+MyModel|dailydialog@gpu0 epo:[1/10] iter:[800/1188] step_time:4s elapsed:0:0:35<0:0:17
+{'train_loss': 4.668554306030273}
+MyModel|dailydialog@gpu0 epo:[1/10] iter:[900/1188] step_time:4s elapsed:0:0:40<0:0:12
+{'train_loss': 4.317011833190918}
+MyModel|dailydialog@gpu0 epo:[1/10] iter:[1000/1188] step_time:4s elapsed:0:0:44<0:0:8
+{'train_loss': 4.644478797912598}
+MyModel|dailydialog@gpu0 epo:[1/10] iter:[1100/1188] step_time:4s elapsed:0:0:48<0:0:3
+{'train_loss': 4.386983394622803}
+MyModel|dailydialog@gpu0 epo:[2/10] iter:[100/1188] step_time:4s elapsed:0:0:4<0:0:47
+{'train_loss': 4.4155473709106445}
+MyModel|dailydialog@gpu0 epo:[2/10] iter:[200/1188] step_time:4s elapsed:0:0:8<0:0:43
+{'train_loss': 4.372920513153076}
+MyModel|dailydialog@gpu0 epo:[2/10] iter:[300/1188] step_time:4s elapsed:0:0:13<0:0:38
+{'train_loss': 4.247354507446289}
+MyModel|dailydialog@gpu0 epo:[2/10] iter:[400/1188] step_time:4s elapsed:0:0:17<0:0:34
+{'train_loss': 4.191388130187988}
+MyModel|dailydialog@gpu0 epo:[2/10] iter:[500/1188] step_time:4s elapsed:0:0:21<0:0:29
+{'train_loss': 4.317567825317383}
+MyModel|dailydialog@gpu0 epo:[2/10] iter:[600/1188] step_time:4s elapsed:0:0:25<0:0:25
+{'train_loss': 4.496272087097168}
+MyModel|dailydialog@gpu0 epo:[2/10] iter:[700/1188] step_time:4s elapsed:0:0:30<0:0:21
+{'train_loss': 4.2750043869018555}
+MyModel|dailydialog@gpu0 epo:[2/10] iter:[800/1188] step_time:4s elapsed:0:0:34<0:0:16
+{'train_loss': 4.360223770141602}
+Evaluating in the validation set..
+MyModel|dailydialog@gpu0 epo:[2/10] iter:[900/1188] step_time:84s elapsed:0:1:59<0:0:38
+{'train_loss': 4.337692737579346}
+MyModel|dailydialog@gpu0 epo:[2/10] iter:[1000/1188] step_time:4s elapsed:0:2:3<0:0:23
+{'train_loss': 4.3698811531066895}
+MyModel|dailydialog@gpu0 epo:[2/10] iter:[1100/1188] step_time:4s elapsed:0:2:8<0:0:10
+{'train_loss': 4.231498718261719}
+MyModel|dailydialog@gpu0 epo:[3/10] iter:[100/1188] step_time:4s elapsed:0:0:4<0:0:47
+{'train_loss': 4.170657634735107}
+MyModel|dailydialog@gpu0 epo:[3/10] iter:[200/1188] step_time:4s elapsed:0:0:8<0:0:43
+{'train_loss': 3.9518911838531494}
+MyModel|dailydialog@gpu0 epo:[3/10] iter:[300/1188] step_time:4s elapsed:0:0:13<0:0:38
+{'train_loss': 4.0901665687561035}
+MyModel|dailydialog@gpu0 epo:[3/10] iter:[400/1188] step_time:4s elapsed:0:0:17<0:0:34
+{'train_loss': 4.005061149597168}
+MyModel|dailydialog@gpu0 epo:[3/10] iter:[500/1188] step_time:4s elapsed:0:0:21<0:0:29
+{'train_loss': 4.132946014404297}
+MyModel|dailydialog@gpu0 epo:[3/10] iter:[600/1188] step_time:4s elapsed:0:0:26<0:0:25
+{'train_loss': 3.955376148223877}
+MyModel|dailydialog@gpu0 epo:[3/10] iter:[700/1188] step_time:4s elapsed:0:0:30<0:0:21
+{'train_loss': 3.8828399181365967}
+MyModel|dailydialog@gpu0 epo:[3/10] iter:[800/1188] step_time:4s elapsed:0:0:34<0:0:16
+{'train_loss': 4.00427770614624}
+MyModel|dailydialog@gpu0 epo:[3/10] iter:[900/1188] step_time:4s elapsed:0:0:39<0:0:12
+{'train_loss': 4.16484260559082}
+MyModel|dailydialog@gpu0 epo:[3/10] iter:[1000/1188] step_time:4s elapsed:0:0:43<0:0:8
+{'train_loss': 3.9931602478027344}
+MyModel|dailydialog@gpu0 epo:[3/10] iter:[1100/1188] step_time:4s elapsed:0:0:47<0:0:3
+{'train_loss': 3.8979949951171875}
+MyModel|dailydialog@gpu0 epo:[4/10] iter:[100/1188] step_time:4s elapsed:0:0:4<0:0:47
+{'train_loss': 4.077713966369629}
+MyModel|dailydialog@gpu0 epo:[4/10] iter:[200/1188] step_time:4s elapsed:0:0:8<0:0:42
+{'train_loss': 3.9104084968566895}
+MyModel|dailydialog@gpu0 epo:[4/10] iter:[300/1188] step_time:4s elapsed:0:0:13<0:0:38
+{'train_loss': 3.8564162254333496}
+MyModel|dailydialog@gpu0 epo:[4/10] iter:[400/1188] step_time:4s elapsed:0:0:17<0:0:34
+{'train_loss': 3.8563947677612305}
+Evaluating in the validation set..
+MyModel|dailydialog@gpu0 epo:[4/10] iter:[500/1188] step_time:84s elapsed:0:1:42<0:2:20
+{'train_loss': 3.8393564224243164}
+MyModel|dailydialog@gpu0 epo:[4/10] iter:[600/1188] step_time:4s elapsed:0:1:46<0:1:44
+{'train_loss': 3.918208122253418}
+MyModel|dailydialog@gpu0 epo:[4/10] iter:[700/1188] step_time:4s elapsed:0:1:51<0:1:17
+{'train_loss': 3.901686668395996}
+MyModel|dailydialog@gpu0 epo:[4/10] iter:[800/1188] step_time:4s elapsed:0:1:55<0:0:55
+{'train_loss': 3.920520067214966}
+MyModel|dailydialog@gpu0 epo:[4/10] iter:[900/1188] step_time:4s elapsed:0:1:59<0:0:38
+{'train_loss': 3.9128811359405518}
+MyModel|dailydialog@gpu0 epo:[4/10] iter:[1000/1188] step_time:4s elapsed:0:2:4<0:0:23
+{'train_loss': 3.697035312652588}
+MyModel|dailydialog@gpu0 epo:[4/10] iter:[1100/1188] step_time:4s elapsed:0:2:8<0:0:10
+{'train_loss': 3.7917532920837402}
+MyModel|dailydialog@gpu0 epo:[5/10] iter:[100/1188] step_time:4s elapsed:0:0:4<0:0:48
+{'train_loss': 3.53613018989563}
+MyModel|dailydialog@gpu0 epo:[5/10] iter:[200/1188] step_time:4s elapsed:0:0:8<0:0:43
+{'train_loss': 3.7533628940582275}
+MyModel|dailydialog@gpu0 epo:[5/10] iter:[300/1188] step_time:4s elapsed:0:0:13<0:0:38
+{'train_loss': 3.8125765323638916}
+MyModel|dailydialog@gpu0 epo:[5/10] iter:[400/1188] step_time:4s elapsed:0:0:17<0:0:34
+{'train_loss': 3.8881731033325195}
+MyModel|dailydialog@gpu0 epo:[5/10] iter:[500/1188] step_time:4s elapsed:0:0:21<0:0:29
+{'train_loss': 3.8107597827911377}
+MyModel|dailydialog@gpu0 epo:[5/10] iter:[600/1188] step_time:4s elapsed:0:0:26<0:0:25
+{'train_loss': 3.9270694255828857}
+MyModel|dailydialog@gpu0 epo:[5/10] iter:[700/1188] step_time:4s elapsed:0:0:30<0:0:21
+{'train_loss': 3.8400719165802}
+MyModel|dailydialog@gpu0 epo:[5/10] iter:[800/1188] step_time:4s elapsed:0:0:34<0:0:16
+{'train_loss': 3.933643341064453}
+MyModel|dailydialog@gpu0 epo:[5/10] iter:[900/1188] step_time:4s elapsed:0:0:39<0:0:12
+{'train_loss': 3.7724804878234863}
+MyModel|dailydialog@gpu0 epo:[5/10] iter:[1000/1188] step_time:4s elapsed:0:0:43<0:0:8
+{'train_loss': 3.7636075019836426}
+MyModel|dailydialog@gpu0 epo:[5/10] iter:[1100/1188] step_time:4s elapsed:0:0:47<0:0:3
+{'train_loss': 3.960055351257324}
+Evaluating in the validation set..
+MyModel|dailydialog@gpu0 epo:[6/10] iter:[100/1188] step_time:84s elapsed:0:1:24<0:15:20
+{'train_loss': 3.657320976257324}
+MyModel|dailydialog@gpu0 epo:[6/10] iter:[200/1188] step_time:4s elapsed:0:1:28<0:7:19
+{'train_loss': 3.791257619857788}
+MyModel|dailydialog@gpu0 epo:[6/10] iter:[300/1188] step_time:4s elapsed:0:1:33<0:4:36
+{'train_loss': 3.865710973739624}
+MyModel|dailydialog@gpu0 epo:[6/10] iter:[400/1188] step_time:4s elapsed:0:1:37<0:3:12
+{'train_loss': 3.8020360469818115}
+MyModel|dailydialog@gpu0 epo:[6/10] iter:[500/1188] step_time:4s elapsed:0:1:41<0:2:20
+{'train_loss': 3.8356077671051025}
+MyModel|dailydialog@gpu0 epo:[6/10] iter:[600/1188] step_time:4s elapsed:0:1:46<0:1:44
+{'train_loss': 3.495431900024414}
+MyModel|dailydialog@gpu0 epo:[6/10] iter:[700/1188] step_time:4s elapsed:0:1:50<0:1:17
+{'train_loss': 3.692436456680298}
+MyModel|dailydialog@gpu0 epo:[6/10] iter:[800/1188] step_time:4s elapsed:0:1:54<0:0:55
+{'train_loss': 3.315817356109619}
+MyModel|dailydialog@gpu0 epo:[6/10] iter:[900/1188] step_time:4s elapsed:0:1:59<0:0:38
+{'train_loss': 3.6919498443603516}
+MyModel|dailydialog@gpu0 epo:[6/10] iter:[1000/1188] step_time:4s elapsed:0:2:3<0:0:23
+{'train_loss': 3.8041229248046875}
+MyModel|dailydialog@gpu0 epo:[6/10] iter:[1100/1188] step_time:4s elapsed:0:2:7<0:0:10
+{'train_loss': 3.838655710220337}
+MyModel|dailydialog@gpu0 epo:[7/10] iter:[100/1188] step_time:4s elapsed:0:0:4<0:0:47
+{'train_loss': 3.5565712451934814}
+MyModel|dailydialog@gpu0 epo:[7/10] iter:[200/1188] step_time:4s elapsed:0:0:8<0:0:42
+{'train_loss': 3.571685791015625}
+MyModel|dailydialog@gpu0 epo:[7/10] iter:[300/1188] step_time:4s elapsed:0:0:13<0:0:38
+{'train_loss': 3.73825740814209}
+MyModel|dailydialog@gpu0 epo:[7/10] iter:[400/1188] step_time:4s elapsed:0:0:17<0:0:34
+{'train_loss': 3.5251643657684326}
+MyModel|dailydialog@gpu0 epo:[7/10] iter:[500/1188] step_time:4s elapsed:0:0:21<0:0:29
+{'train_loss': 3.701815605163574}
+MyModel|dailydialog@gpu0 epo:[7/10] iter:[600/1188] step_time:4s elapsed:0:0:26<0:0:25
+{'train_loss': 3.641826868057251}
+MyModel|dailydialog@gpu0 epo:[7/10] iter:[700/1188] step_time:4s elapsed:0:0:30<0:0:21
+{'train_loss': 3.544004201889038}
+MyModel|dailydialog@gpu0 epo:[7/10] iter:[800/1188] step_time:4s elapsed:0:0:34<0:0:16
+{'train_loss': 3.6053059101104736}
+Evaluating in the validation set..
+MyModel|dailydialog@gpu0 epo:[7/10] iter:[900/1188] step_time:84s elapsed:0:1:59<0:0:38
+{'train_loss': 3.734748601913452}
+MyModel|dailydialog@gpu0 epo:[7/10] iter:[1000/1188] step_time:4s elapsed:0:2:3<0:0:23
+{'train_loss': 3.532738447189331}
+MyModel|dailydialog@gpu0 epo:[7/10] iter:[1100/1188] step_time:4s elapsed:0:2:7<0:0:10
+{'train_loss': 3.6076507568359375}
+MyModel|dailydialog@gpu0 epo:[8/10] iter:[100/1188] step_time:4s elapsed:0:0:4<0:0:47
+{'train_loss': 3.6799912452697754}
+MyModel|dailydialog@gpu0 epo:[8/10] iter:[200/1188] step_time:4s elapsed:0:0:8<0:0:42
+{'train_loss': 3.6258010864257812}
+MyModel|dailydialog@gpu0 epo:[8/10] iter:[300/1188] step_time:4s elapsed:0:0:13<0:0:38
+{'train_loss': 3.4180774688720703}
+MyModel|dailydialog@gpu0 epo:[8/10] iter:[400/1188] step_time:4s elapsed:0:0:17<0:0:34
+{'train_loss': 3.686941146850586}
+MyModel|dailydialog@gpu0 epo:[8/10] iter:[500/1188] step_time:4s elapsed:0:0:21<0:0:29
+{'train_loss': 3.5986545085906982}
+MyModel|dailydialog@gpu0 epo:[8/10] iter:[600/1188] step_time:4s elapsed:0:0:26<0:0:25
+{'train_loss': 3.656144142150879}
+MyModel|dailydialog@gpu0 epo:[8/10] iter:[700/1188] step_time:4s elapsed:0:0:30<0:0:21
+{'train_loss': 3.4819140434265137}
+MyModel|dailydialog@gpu0 epo:[8/10] iter:[800/1188] step_time:4s elapsed:0:0:34<0:0:16
+{'train_loss': 3.689035177230835}
+MyModel|dailydialog@gpu0 epo:[8/10] iter:[900/1188] step_time:4s elapsed:0:0:39<0:0:12
+{'train_loss': 3.4831624031066895}
+MyModel|dailydialog@gpu0 epo:[8/10] iter:[1000/1188] step_time:4s elapsed:0:0:43<0:0:8
+{'train_loss': 3.6648428440093994}
+MyModel|dailydialog@gpu0 epo:[8/10] iter:[1100/1188] step_time:4s elapsed:0:0:47<0:0:3
+{'train_loss': 3.7448654174804688}
+MyModel|dailydialog@gpu0 epo:[9/10] iter:[100/1188] step_time:4s elapsed:0:0:4<0:0:47
+{'train_loss': 3.5779271125793457}
+MyModel|dailydialog@gpu0 epo:[9/10] iter:[200/1188] step_time:4s elapsed:0:0:8<0:0:43
+{'train_loss': 3.5189690589904785}
+MyModel|dailydialog@gpu0 epo:[9/10] iter:[300/1188] step_time:4s elapsed:0:0:13<0:0:38
+{'train_loss': 3.802725076675415}
+MyModel|dailydialog@gpu0 epo:[9/10] iter:[400/1188] step_time:4s elapsed:0:0:17<0:0:34
+{'train_loss': 3.504763603210449}
+Evaluating in the validation set..
+MyModel|dailydialog@gpu0 epo:[9/10] iter:[500/1188] step_time:85s elapsed:0:1:42<0:2:21
+{'train_loss': 3.6279475688934326}
+MyModel|dailydialog@gpu0 epo:[9/10] iter:[600/1188] step_time:4s elapsed:0:1:46<0:1:44
+{'train_loss': 3.54274845123291}
+MyModel|dailydialog@gpu0 epo:[9/10] iter:[700/1188] step_time:4s elapsed:0:1:51<0:1:17
+{'train_loss': 3.4111039638519287}
+MyModel|dailydialog@gpu0 epo:[9/10] iter:[800/1188] step_time:4s elapsed:0:1:55<0:0:56
+{'train_loss': 3.6904897689819336}
+MyModel|dailydialog@gpu0 epo:[9/10] iter:[900/1188] step_time:4s elapsed:0:1:59<0:0:38
+{'train_loss': 3.5432543754577637}
+MyModel|dailydialog@gpu0 epo:[9/10] iter:[1000/1188] step_time:4s elapsed:0:2:4<0:0:23
+{'train_loss': 3.530733346939087}
+MyModel|dailydialog@gpu0 epo:[9/10] iter:[1100/1188] step_time:4s elapsed:0:2:8<0:0:10
+{'train_loss': 3.385990619659424}
+MyModel|dailydialog@gpu0 epo:[10/10] iter:[100/1188] step_time:4s elapsed:0:0:4<0:0:47
+{'train_loss': 3.513805627822876}
+MyModel|dailydialog@gpu0 epo:[10/10] iter:[200/1188] step_time:4s elapsed:0:0:8<0:0:43
+{'train_loss': 3.420692205429077}
+MyModel|dailydialog@gpu0 epo:[10/10] iter:[300/1188] step_time:4s elapsed:0:0:13<0:0:38
+{'train_loss': 3.369030237197876}
+MyModel|dailydialog@gpu0 epo:[10/10] iter:[400/1188] step_time:4s elapsed:0:0:17<0:0:34
+{'train_loss': 3.571627378463745}
+MyModel|dailydialog@gpu0 epo:[10/10] iter:[500/1188] step_time:4s elapsed:0:0:21<0:0:30
+{'train_loss': 3.674560785293579}
+MyModel|dailydialog@gpu0 epo:[10/10] iter:[600/1188] step_time:4s elapsed:0:0:26<0:0:25
+{'train_loss': 3.5524373054504395}
+MyModel|dailydialog@gpu0 epo:[10/10] iter:[700/1188] step_time:4s elapsed:0:0:30<0:0:21
+{'train_loss': 3.68070912361145}
+MyModel|dailydialog@gpu0 epo:[10/10] iter:[800/1188] step_time:4s elapsed:0:0:34<0:0:16
+{'train_loss': 3.4260025024414062}
+MyModel|dailydialog@gpu0 epo:[10/10] iter:[900/1188] step_time:4s elapsed:0:0:39<0:0:12
+{'train_loss': 3.3730907440185547}
+MyModel|dailydialog@gpu0 epo:[10/10] iter:[1000/1188] step_time:4s elapsed:0:0:43<0:0:8
+{'train_loss': 3.366521120071411}
+MyModel|dailydialog@gpu0 epo:[10/10] iter:[1100/1188] step_time:4s elapsed:0:0:47<0:0:3
+{'train_loss': 3.474548578262329}
