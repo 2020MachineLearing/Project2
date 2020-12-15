@@ -1,2 +1,4 @@
 
 data/weibo/train.h5
+output/
+.vscode/
