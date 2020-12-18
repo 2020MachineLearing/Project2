@@ -1,2 +1,5 @@
 
-data/weibo/train.h5
+.vscode/
+data/
+documents/
+output/
