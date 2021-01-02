@@ -1,0 +1,1898 @@
+Batch 1 
+Context 0--1: ('good morning , sir . is there a bank near here ? </s>', 13)
+Target >> there is one . 5 blocks away from here ? </s>
+Sample 0 >> yes . is that communicate's great ! </s>
+
+Batch 2 
+Context 0--1: ('good morning , sir . is there a bank near here ? </s>', 13)
+Context 1--2: ('there is one . 5 blocks away from here ? </s>', 11)
+Target >> well , that's too far . can you change some money for me ? </s>
+Sample 0 >> yes , sir ! </s>
+
+Batch 3 
+Context 0--1: ('good morning , sir . is there a bank near here ? </s>', 13)
+Context 1--2: ('there is one . 5 blocks away from here ? </s>', 11)
+Context 2--1: ("well , that ' s too far . can you change some money for me ? </s>", 17)
+Target >> surely , of course . what kind of currency have you got ? </s>
+Sample 0 >> yes . is that nealy that nealy . </s>
+
+Batch 4 
+Context 0--1: ('good morning , sir . is there a bank near here ? </s>', 13)
+Context 1--2: ('there is one . 5 blocks away from here ? </s>', 11)
+Context 2--1: ("well , that ' s too far . can you change some money for me ? </s>", 17)
+Context 3--2: ('surely , of course . what kind of currency have you got ? </s>', 14)
+Target >> rib . </s>
+Sample 0 >> yes . that nealy . </s>
+
+Batch 5 
+Context 0--1: ('good morning , sir . is there a bank near here ? </s>', 13)
+Context 1--2: ('there is one . 5 blocks away from here ? </s>', 11)
+Context 2--1: ("well , that ' s too far . can you change some money for me ? </s>", 17)
+Context 3--2: ('surely , of course . what kind of currency have you got ? </s>', 14)
+Context 4--1: ('rib . </s>', 3)
+Target >> how much would you like to change ? </s>
+Sample 0 >> yes , they . </s>
+
+Batch 6 
+Context 1--2: ('there is one . 5 blocks away from here ? </s>', 11)
+Context 2--1: ("well , that ' s too far . can you change some money for me ? </s>", 17)
+Context 3--2: ('surely , of course . what kind of currency have you got ? </s>', 14)
+Context 4--1: ('rib . </s>', 3)
+Context 5--2: ('how much would you like to change ? </s>', 9)
+Target >> 1000 yuan . here you are . __eou__ </s>
+Sample 0 >> yes . is there's do you need to
+
+Batch 7 
+Context 0--1: ('good afternoon . this is michelle li speaking , calling on behalf of iba . is mr meng available at all ? </s>', 23)
+Target >> this is mr meng speaking , michelle . </s>
+Sample 0 >> yes . is that communicate's great ! </s>
+
+Batch 8 
+Context 0--1: ('good afternoon . this is michelle li speaking , calling on behalf of iba . is mr meng available at all ? </s>', 23)
+Context 1--2: ('this is mr meng speaking , michelle . </s>', 9)
+Target >> oh , hello ! sorry about that . i'm just calling to say that we've received your new corporate credit card from <OOV> . </s>
+Sample 0 >> yes . that nealy to that's great !
+
+Batch 9 
+Context 0--1: ('good afternoon . this is michelle li speaking , calling on behalf of iba . is mr meng available at all ? </s>', 23)
+Context 1--2: ('this is mr meng speaking , michelle . </s>', 9)
+Context 2--1: ("oh , hello ! sorry about that . i ' m just calling to say that we ' ve received your new corporate credit card from <OOV> . </s>", 29)
+Target >> that was quick ! i wasn't expecting it until later this week . </s>
+Sample 0 >> yes . is that nealy that nealy . </s>
+
+Batch 10 
+Context 0--1: ('good afternoon . this is michelle li speaking , calling on behalf of iba . is mr meng available at all ? </s>', 23)
+Context 1--2: ('this is mr meng speaking , michelle . </s>', 9)
+Context 2--1: ("oh , hello ! sorry about that . i ' m just calling to say that we ' ve received your new corporate credit card from <OOV> . </s>", 29)
+Context 3--2: ("that was quick ! i wasn ' t expecting it until later this week . </s>", 16)
+Target >> yes , our application procedures have <OOV> up since we started using the new fast - track system . </s>
+Sample 0 >> yes . . is that communicate is that's
+
+Batch 11 
+Context 0--1: ('good afternoon . this is michelle li speaking , calling on behalf of iba . is mr meng available at all ? </s>', 23)
+Context 1--2: ('this is mr meng speaking , michelle . </s>', 9)
+Context 2--1: ("oh , hello ! sorry about that . i ' m just calling to say that we ' ve received your new corporate credit card from <OOV> . </s>", 29)
+Context 3--2: ("that was quick ! i wasn ' t expecting it until later this week . </s>", 16)
+Context 4--1: ('yes , our application procedures have <OOV> up since we started using the new fast - track system . </s>', 20)
+Target >> shall i come in and collect it ? </s>
+Sample 0 >> yes . is't worry . </s>
+
+Batch 12 
+Context 1--2: ('this is mr meng speaking , michelle . </s>', 9)
+Context 2--1: ("oh , hello ! sorry about that . i ' m just calling to say that we ' ve received your new corporate credit card from <OOV> . </s>", 29)
+Context 3--2: ("that was quick ! i wasn ' t expecting it until later this week . </s>", 16)
+Context 4--1: ('yes , our application procedures have <OOV> up since we started using the new fast - track system . </s>', 20)
+Context 5--2: ('shall i come in and collect it ? </s>', 9)
+Target >> or we can send it to you . but if you would like to use it at the atm , you'll need to wait for your pin number . </s>
+Sample 0 >> yes . that nealy's glowing . </s>
+
+Batch 13 
+Context 2--1: ("oh , hello ! sorry about that . i ' m just calling to say that we ' ve received your new corporate credit card from <OOV> . </s>", 29)
+Context 3--2: ("that was quick ! i wasn ' t expecting it until later this week . </s>", 16)
+Context 4--1: ('yes , our application procedures have <OOV> up since we started using the new fast - track system . </s>', 20)
+Context 5--2: ('shall i come in and collect it ? </s>', 9)
+Context 6--1: ("or we can send it to you . but if you would like to use it at the atm , you ' ll need to wait for your pin number . </s>", 32)
+Target >> mmmm ... if i come in and collect it this afternoon , is there any way i could use it today ? petty cash is getting low , so i need to draw some money . </s>
+Sample 0 >> yes , sir . </s>
+
+Batch 14 
+Context 3--2: ("that was quick ! i wasn ' t expecting it until later this week . </s>", 16)
+Context 4--1: ('yes , our application procedures have <OOV> up since we started using the new fast - track system . </s>', 20)
+Context 5--2: ('shall i come in and collect it ? </s>', 9)
+Context 6--1: ("or we can send it to you . but if you would like to use it at the atm , you ' ll need to wait for your pin number . </s>", 32)
+Context 7--2: ('mmmm ... if i come in and collect it this afternoon , is there any way i could use it today ? petty cash is getting low , so i need to draw some money . </s>', 37)
+Target >> as long as you bring your id , etc , we can serve you over the counter . but you won't be able to use the atm until your new pin number arrives . </s>
+Sample 0 >> yes . that nealy is it ? </s>
+
+Batch 15 
+Context 4--1: ('yes , our application procedures have <OOV> up since we started using the new fast - track system . </s>', 20)
+Context 5--2: ('shall i come in and collect it ? </s>', 9)
+Context 6--1: ("or we can send it to you . but if you would like to use it at the atm , you ' ll need to wait for your pin number . </s>", 32)
+Context 7--2: ('mmmm ... if i come in and collect it this afternoon , is there any way i could use it today ? petty cash is getting low , so i need to draw some money . </s>', 37)
+Context 8--1: ("as long as you bring your id , etc , we can serve you over the counter . but you won ' t be able to use the atm until your new pin number arrives . </s>", 37)
+Target >> i see . yes , that's fine . i'll be there at around 2 : 30 pm . see you later , and thanks . __eou__ </s>
+Sample 0 >> yes . is there anything else ball ? </s>
+
+Batch 16 
+Context 0--1: ('what qualifications should a reporter have ? </s>', 8)
+Target >> as a reporter , he must have acute insight and language skills . at the same time , he must have good judgment , the respect for his job and <OOV> cooperation with others . </s>
+Sample 0 >> yes . is that communicate's for my friends
+
+Batch 17 
+Context 0--1: ('what qualifications should a reporter have ? </s>', 8)
+Context 1--2: ('as a reporter , he must have acute insight and language skills . at the same time , he must have good judgment , the respect for his job and <OOV> cooperation with others . </s>', 36)
+Target >> can you work under pressure ? you know , people working here are all busy everyday since we're daily newspaper . </s>
+Sample 0 >> yes it in detail . </s>
+
+Batch 18 
+Context 0--1: ('what qualifications should a reporter have ? </s>', 8)
+Context 1--2: ('as a reporter , he must have acute insight and language skills . at the same time , he must have good judgment , the respect for his job and <OOV> cooperation with others . </s>', 36)
+Context 2--1: ("can you work under pressure ? you know , people working here are all busy everyday since we ' re daily newspaper . </s>", 24)
+Target >> i think i've got used to work under pressure . i will adjust myself to the step of your newspaper quickly . __eou__ </s>
+Sample 0 >> yes . is that nealy is that nealy ? </s>
+
+Batch 19 
+Context 0--1: ('hi , good morning , miss ? what can i help you with ? </s>', 15)
+Target >> good morning i'd like to mail this box of books to taiwan . </s>
+Sample 0 >> yes . what is that nealy . </s>
+
+Batch 20 
+Context 0--1: ('hi , good morning , miss ? what can i help you with ? </s>', 15)
+Context 1--2: ("good morning i ' d like to mail this box of books to taiwan . </s>", 16)
+Target >> ok , please put it on this scale . airmail or by sea ? </s>
+Sample 0 >> yes . that nealy is that nealy . </s>
+
+Batch 21 
+Context 0--1: ('hi , good morning , miss ? what can i help you with ? </s>', 15)
+Context 1--2: ("good morning i ' d like to mail this box of books to taiwan . </s>", 16)
+Context 2--1: ('ok , please put it on this scale . airmail or by sea ? </s>', 15)
+Target >> how long does it take to reach taiwan by sea ? </s>
+Sample 0 >> yes . that nealy . </s>
+
+Batch 22 
+Context 0--1: ('hi , good morning , miss ? what can i help you with ? </s>', 15)
+Context 1--2: ("good morning i ' d like to mail this box of books to taiwan . </s>", 16)
+Context 2--1: ('ok , please put it on this scale . airmail or by sea ? </s>', 15)
+Context 3--2: ('how long does it take to reach taiwan by sea ? </s>', 12)
+Target >> usually about two month . </s>
+Sample 0 >> yes . that nealy is that nealy . </s>
+
+Batch 23 
+Context 0--1: ('hi , good morning , miss ? what can i help you with ? </s>', 15)
+Context 1--2: ("good morning i ' d like to mail this box of books to taiwan . </s>", 16)
+Context 2--1: ('ok , please put it on this scale . airmail or by sea ? </s>', 15)
+Context 3--2: ('how long does it take to reach taiwan by sea ? </s>', 12)
+Context 4--1: ('usually about two month . </s>', 6)
+Target >> that's too long . how long does it take to reach taiwan by airmail ? </s>
+Sample 0 >> yes . what's get in at my wife
+
+Batch 24 
+Context 1--2: ("good morning i ' d like to mail this box of books to taiwan . </s>", 16)
+Context 2--1: ('ok , please put it on this scale . airmail or by sea ? </s>', 15)
+Context 3--2: ('how long does it take to reach taiwan by sea ? </s>', 12)
+Context 4--1: ('usually about two month . </s>', 6)
+Context 5--2: ("that ' s too long . how long does it take to reach taiwan by airmail ? </s>", 18)
+Target >> about ten days . </s>
+Sample 0 >> yes . is that nealy that's great .
+
+Batch 25 
+Context 2--1: ('ok , please put it on this scale . airmail or by sea ? </s>', 15)
+Context 3--2: ('how long does it take to reach taiwan by sea ? </s>', 12)
+Context 4--1: ('usually about two month . </s>', 6)
+Context 5--2: ("that ' s too long . how long does it take to reach taiwan by airmail ? </s>", 18)
+Context 6--1: ('about ten days . </s>', 5)
+Target >> then how much is that by airmail ? </s>
+Sample 0 >> yes . that nealy is it's in love
+
+Batch 26 
+Context 3--2: ('how long does it take to reach taiwan by sea ? </s>', 12)
+Context 4--1: ('usually about two month . </s>', 6)
+Context 5--2: ("that ' s too long . how long does it take to reach taiwan by airmail ? </s>", 18)
+Context 6--1: ('about ten days . </s>', 5)
+Context 7--2: ('then how much is that by airmail ? </s>', 9)
+Target >> let me see . it's 57 dollars , 20 cents , including tax . </s>
+Sample 0 >> ok stalls made's get in for my wife
+
+Batch 27 
+Context 4--1: ('usually about two month . </s>', 6)
+Context 5--2: ("that ' s too long . how long does it take to reach taiwan by airmail ? </s>", 18)
+Context 6--1: ('about ten days . </s>', 5)
+Context 7--2: ('then how much is that by airmail ? </s>', 9)
+Context 8--1: ("let me see . it ' s 57 dollars , 20 cents , including tax . </s>", 17)
+Target >> that's a little bit expensive . </s>
+Sample 0 >> yes . is that nealy also to get at 12
+
+Batch 28 
+Context 5--2: ("that ' s too long . how long does it take to reach taiwan by airmail ? </s>", 18)
+Context 6--1: ('about ten days . </s>', 5)
+Context 7--2: ('then how much is that by airmail ? </s>', 9)
+Context 8--1: ("let me see . it ' s 57 dollars , 20 cents , including tax . </s>", 17)
+Context 9--2: ("that ' s a little bit expensive . </s>", 9)
+Target >> although it's expensive to send it by airmail , it's quicker and safer than by sea . </s>
+Sample 0 >> yes . if is there's do ? </s>
+
+Batch 29 
+Context 5--1: ('about ten days . </s>', 5)
+Context 6--2: ('then how much is that by airmail ? </s>', 9)
+Context 7--1: ("let me see . it ' s 57 dollars , 20 cents , including tax . </s>", 17)
+Context 8--2: ("that ' s a little bit expensive . </s>", 9)
+Context 9--1: ("although it ' s expensive to send it by airmail , it ' s quicker and safer than by sea . </s>", 22)
+Target >> i guess i have to send it by airmail . </s>
+Sample 0 >> yes . is's . </s>
+
+Batch 30 
+Context 5--2: ('then how much is that by airmail ? </s>', 9)
+Context 6--1: ("let me see . it ' s 57 dollars , 20 cents , including tax . </s>", 17)
+Context 7--2: ("that ' s a little bit expensive . </s>", 9)
+Context 8--1: ("although it ' s expensive to send it by airmail , it ' s quicker and safer than by sea . </s>", 22)
+Context 9--2: ('i guess i have to send it by airmail . </s>', 11)
+Target >> do you want to ensure the contents , miss ? </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 31 
+Context 5--1: ("let me see . it ' s 57 dollars , 20 cents , including tax . </s>", 17)
+Context 6--2: ("that ' s a little bit expensive . </s>", 9)
+Context 7--1: ("although it ' s expensive to send it by airmail , it ' s quicker and safer than by sea . </s>", 22)
+Context 8--2: ('i guess i have to send it by airmail . </s>', 11)
+Context 9--1: ('do you want to ensure the contents , miss ? </s>', 11)
+Target >> yes , please . </s>
+Sample 0 >> yes . is that nealy to stay at home .
+
+Batch 32 
+Context 5--2: ("that ' s a little bit expensive . </s>", 9)
+Context 6--1: ("although it ' s expensive to send it by airmail , it ' s quicker and safer than by sea . </s>", 22)
+Context 7--2: ('i guess i have to send it by airmail . </s>', 11)
+Context 8--1: ('do you want to ensure the contents , miss ? </s>', 11)
+Context 9--2: ('yes , please . </s>', 5)
+Target >> please fill out this form , also please write the value of the items in this space . </s>
+Sample 0 >> yes . that nealy is that's great !
+
+Batch 33 
+Context 5--1: ("although it ' s expensive to send it by airmail , it ' s quicker and safer than by sea . </s>", 22)
+Context 6--2: ('i guess i have to send it by airmail . </s>', 11)
+Context 7--1: ('do you want to ensure the contents , miss ? </s>', 11)
+Context 8--2: ('yes , please . </s>', 5)
+Context 9--1: ('please fill out this form , also please write the value of the items in this space . </s>', 19)
+Target >> ok . __eou__ </s>
+Sample 0 >> yes . that's glowing . </s>
+
+Batch 34 
+Context 0--1: ("excuse me , ma ' am . can you tell me where the nearest <OOV> is ? </s>", 18)
+Target >> of course . go straight ahead . turn right at the next street . you'll see a tall , yellow building . the post office is on the first floor . </s>
+Sample 0 >> yes . it seems like that to go after to
+
+Batch 35 
+Context 0--1: ("excuse me , ma ' am . can you tell me where the nearest <OOV> is ? </s>", 18)
+Context 1--2: ("of course . go straight ahead . turn right at the next street . you ' ll see a tall , yellow building . the post office is on the first floor . </s>", 34)
+Target >> do you mean that i go that way for one block , then turn right ? </s>
+Sample 0 >> yes . what is that nealy ? </s>
+
+Batch 36 
+Context 0--1: ("excuse me , ma ' am . can you tell me where the nearest <OOV> is ? </s>", 18)
+Context 1--2: ("of course . go straight ahead . turn right at the next street . you ' ll see a tall , yellow building . the post office is on the first floor . </s>", 34)
+Context 2--1: ('do you mean that i go that way for one block , then turn right ? </s>', 17)
+Target >> yes , you are right . </s>
+Sample 0 >> yes . that nealy is that nealy that at ?
+
+Batch 37 
+Context 0--1: ("excuse me , ma ' am . can you tell me where the nearest <OOV> is ? </s>", 18)
+Context 1--2: ("of course . go straight ahead . turn right at the next street . you ' ll see a tall , yellow building . the post office is on the first floor . </s>", 34)
+Context 2--1: ('do you mean that i go that way for one block , then turn right ? </s>', 17)
+Context 3--2: ('yes , you are right . </s>', 7)
+Target >> is it far ? </s>
+Sample 0 >> well . </s>
+
+Batch 38 
+Context 0--1: ("excuse me , ma ' am . can you tell me where the nearest <OOV> is ? </s>", 18)
+Context 1--2: ("of course . go straight ahead . turn right at the next street . you ' ll see a tall , yellow building . the post office is on the first floor . </s>", 34)
+Context 2--1: ('do you mean that i go that way for one block , then turn right ? </s>', 17)
+Context 3--2: ('yes , you are right . </s>', 7)
+Context 4--1: ('is it far ? </s>', 5)
+Target >> no , it's only about five minutes'walk . </s>
+Sample 0 >> yes . is that nealy ? </s>
+
+Batch 39 
+Context 1--2: ("of course . go straight ahead . turn right at the next street . you ' ll see a tall , yellow building . the post office is on the first floor . </s>", 34)
+Context 2--1: ('do you mean that i go that way for one block , then turn right ? </s>', 17)
+Context 3--2: ('yes , you are right . </s>', 7)
+Context 4--1: ('is it far ? </s>', 5)
+Context 5--2: ("no , it ' s only about five minutes ' walk . </s>", 13)
+Target >> thank you very much . </s>
+Sample 0 >> yes . that nealy . </s>
+
+Batch 40 
+Context 2--1: ('do you mean that i go that way for one block , then turn right ? </s>', 17)
+Context 3--2: ('yes , you are right . </s>', 7)
+Context 4--1: ('is it far ? </s>', 5)
+Context 5--2: ("no , it ' s only about five minutes ' walk . </s>", 13)
+Context 6--1: ('thank you very much . </s>', 6)
+Target >> it's my pleasure . __eou__ </s>
+Sample 0 >> yes . is that nealy in at in my wife
+
+Batch 41 
+Context 0--1: ('could you give me some advice on how to bring up my son properly ? </s>', 16)
+Target >> he's a bright boy , isn't he ? </s>
+Sample 0 >> yes . is that communicate's great . </s>
+
+Batch 42 
+Context 0--1: ('could you give me some advice on how to bring up my son properly ? </s>', 16)
+Context 1--2: ("he ' s a bright boy , isn ' t he ? </s>", 13)
+Target >> but he always wimps out of difficulty . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 43 
+Context 0--1: ('could you give me some advice on how to bring up my son properly ? </s>', 16)
+Context 1--2: ("he ' s a bright boy , isn ' t he ? </s>", 13)
+Context 2--1: ('but he always wimps out of difficulty . </s>', 9)
+Target >> don't worry , he'll make good progress step by step . __eou__ </s>
+Sample 0 >> yes . that nealy ? </s>
+
+Batch 44 
+Context 0--1: ("i ' m in 507 . i have a few problems with my room . </s>", 16)
+Target >> what is that problem , sir ? </s>
+Sample 0 >> yes . that's great for another . </s>
+
+Batch 45 
+Context 0--1: ("i ' m in 507 . i have a few problems with my room . </s>", 16)
+Context 1--2: ('what is that problem , sir ? </s>', 8)
+Target >> there are cockroaches in my room . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 46 
+Context 0--1: ("i ' m in 507 . i have a few problems with my room . </s>", 16)
+Context 1--2: ('what is that problem , sir ? </s>', 8)
+Context 2--1: ('there are cockroaches in my room . </s>', 8)
+Target >> are you sure , sir ? flies i could believe , but cockroaches ? </s>
+Sample 0 >> well . </s>
+
+Batch 47 
+Context 0--1: ("i ' m in 507 . i have a few problems with my room . </s>", 16)
+Context 1--2: ('what is that problem , sir ? </s>', 8)
+Context 2--1: ('there are cockroaches in my room . </s>', 8)
+Context 3--2: ('are you sure , sir ? flies i could believe , but cockroaches ? </s>', 15)
+Target >> i've counted nine different cockroaches , and i accidentally stepped on another one . </s>
+Sample 0 >> yes . that nealy . </s>
+
+Batch 48 
+Context 0--1: ("i ' m in 507 . i have a few problems with my room . </s>", 16)
+Context 1--2: ('what is that problem , sir ? </s>', 8)
+Context 2--1: ('there are cockroaches in my room . </s>', 8)
+Context 3--2: ('are you sure , sir ? flies i could believe , but cockroaches ? </s>', 15)
+Context 4--1: ("i ' ve counted nine different cockroaches , and i accidentally stepped on another one . </s>", 17)
+Target >> sir , we run a spotless and cockroach - less hotel . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 49 
+Context 1--2: ('what is that problem , sir ? </s>', 8)
+Context 2--1: ('there are cockroaches in my room . </s>', 8)
+Context 3--2: ('are you sure , sir ? flies i could believe , but cockroaches ? </s>', 15)
+Context 4--1: ("i ' ve counted nine different cockroaches , and i accidentally stepped on another one . </s>", 17)
+Context 5--2: ('sir , we run a spotless and cockroach - less hotel . </s>', 13)
+Target >> you dare to doubt me ? </s>
+Sample 0 >> yes . it seems that that ? </s>
+
+Batch 50 
+Context 2--1: ('there are cockroaches in my room . </s>', 8)
+Context 3--2: ('are you sure , sir ? flies i could believe , but cockroaches ? </s>', 15)
+Context 4--1: ("i ' ve counted nine different cockroaches , and i accidentally stepped on another one . </s>", 17)
+Context 5--2: ('sir , we run a spotless and cockroach - less hotel . </s>', 13)
+Context 6--1: ('you dare to doubt me ? </s>', 7)
+Target >> i'm sorry , sir . let me transfer you to my supervisor . __eou__ </s>
+Sample 0 >> yes . that nealy is . </s>
+
+Batch 51 
+Context 0--1: ("excuse me , sir , i ' m afraid you can ' t park your car here . </s>", 19)
+Target >> why not ? it's my parking space . </s>
+Sample 0 >> yes . in fact ! </s>
+
+Batch 52 
+Context 0--1: ("excuse me , sir , i ' m afraid you can ' t park your car here . </s>", 19)
+Context 1--2: ("why not ? it ' s my parking space . </s>", 11)
+Target >> i'm afraid not , sir . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 53 
+Context 0--1: ("excuse me , sir , i ' m afraid you can ' t park your car here . </s>", 19)
+Context 1--2: ("why not ? it ' s my parking space . </s>", 11)
+Context 2--1: ("i ' m afraid not , sir . </s>", 9)
+Target >> oh ? that's a surprise . let me see ... d <OOV> our dog's birthday . yes , i'm sure this my parking space ! </s>
+Sample 0 >> yes . that nealy is that nealy is that nealy
+
+Batch 54 
+Context 0--1: ("excuse me , sir , i ' m afraid you can ' t park your car here . </s>", 19)
+Context 1--2: ("why not ? it ' s my parking space . </s>", 11)
+Context 2--1: ("i ' m afraid not , sir . </s>", 9)
+Context 3--2: ("oh ? that ' s a surprise . let me see ... d <OOV> our dog ' s birthday . yes , i ' m sure this my parking space ! </s>", 32)
+Target >> but i saw a red car always parking here before . </s>
+Sample 0 >> yes . do you know what do you need anything
+
+Batch 55 
+Context 0--1: ("excuse me , sir , i ' m afraid you can ' t park your car here . </s>", 19)
+Context 1--2: ("why not ? it ' s my parking space . </s>", 11)
+Context 2--1: ("i ' m afraid not , sir . </s>", 9)
+Context 3--2: ("oh ? that ' s a surprise . let me see ... d <OOV> our dog ' s birthday . yes , i ' m sure this my parking space ! </s>", 32)
+Context 4--1: ('but i saw a red car always parking here before . </s>', 12)
+Target >> oh , we've just repainted our car . it was red . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 56 
+Context 1--2: ("why not ? it ' s my parking space . </s>", 11)
+Context 2--1: ("i ' m afraid not , sir . </s>", 9)
+Context 3--2: ("oh ? that ' s a surprise . let me see ... d <OOV> our dog ' s birthday . yes , i ' m sure this my parking space ! </s>", 32)
+Context 4--1: ('but i saw a red car always parking here before . </s>', 12)
+Context 5--2: ("oh , we ' ve just repainted our car . it was red . </s>", 15)
+Target >> maybe . but the car of this space has a broken rearview mirror on the left . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 57 
+Context 2--1: ("i ' m afraid not , sir . </s>", 9)
+Context 3--2: ("oh ? that ' s a surprise . let me see ... d <OOV> our dog ' s birthday . yes , i ' m sure this my parking space ! </s>", 32)
+Context 4--1: ('but i saw a red car always parking here before . </s>', 12)
+Context 5--2: ("oh , we ' ve just repainted our car . it was red . </s>", 15)
+Context 6--1: ('maybe . but the car of this space has a broken rearview mirror on the left . </s>', 18)
+Target >> yeah . it used to . we got that fixed yesterday too . </s>
+Sample 0 >> yes . that nealy in for another scenery . scenery
+
+Batch 58 
+Context 3--2: ("oh ? that ' s a surprise . let me see ... d <OOV> our dog ' s birthday . yes , i ' m sure this my parking space ! </s>", 32)
+Context 4--1: ('but i saw a red car always parking here before . </s>', 12)
+Context 5--2: ("oh , we ' ve just repainted our car . it was red . </s>", 15)
+Context 6--1: ('maybe . but the car of this space has a broken rearview mirror on the left . </s>', 18)
+Context 7--2: ('yeah . it used to . we got that fixed yesterday too . </s>', 14)
+Target >> could you wait for a minute , sir ? i'd like to have a check . </s>
+Sample 0 >> yes . is it's great ! </s>
+
+Batch 59 
+Context 4--1: ('but i saw a red car always parking here before . </s>', 12)
+Context 5--2: ("oh , we ' ve just repainted our car . it was red . </s>", 15)
+Context 6--1: ('maybe . but the car of this space has a broken rearview mirror on the left . </s>', 18)
+Context 7--2: ('yeah . it used to . we got that fixed yesterday too . </s>', 14)
+Context 8--1: ("could you wait for a minute , sir ? i ' d like to have a check . </s>", 19)
+Target >> sure , go ahead . </s>
+Sample 0 >> yes . is that nealy ? </s>
+
+Batch 60 
+Context 5--2: ("oh , we ' ve just repainted our car . it was red . </s>", 15)
+Context 6--1: ('maybe . but the car of this space has a broken rearview mirror on the left . </s>', 18)
+Context 7--2: ('yeah . it used to . we got that fixed yesterday too . </s>', 14)
+Context 8--1: ("could you wait for a minute , sir ? i ' d like to have a check . </s>", 19)
+Context 9--2: ('sure , go ahead . </s>', 6)
+Target >> sorry , sir , my mistake . this is your parking space . </s>
+Sample 0 >> yes . you like that nealy ? </s>
+
+Batch 61 
+Context 5--1: ('maybe . but the car of this space has a broken rearview mirror on the left . </s>', 18)
+Context 6--2: ('yeah . it used to . we got that fixed yesterday too . </s>', 14)
+Context 7--1: ("could you wait for a minute , sir ? i ' d like to have a check . </s>", 19)
+Context 8--2: ('sure , go ahead . </s>', 6)
+Context 9--1: ('sorry , sir , my mistake . this is your parking space . </s>', 14)
+Target >> that's all right . it's not your fault . __eou__ </s>
+Sample 0 >> yes . is that nealy to see us like that
+
+Batch 62 
+Context 0--1: ('what can i do for you today ? </s>', 9)
+Target >> i need to buy a new refrigerator today . </s>
+Sample 0 >> yes . is that communicate's great for me
+
+Batch 63 
+Context 0--1: ('what can i do for you today ? </s>', 9)
+Context 1--2: ('i need to buy a new refrigerator today . </s>', 10)
+Target >> were you looking at a particular refrigerator ? </s>
+Sample 0 >> well's . </s>
+
+Batch 64 
+Context 0--1: ('what can i do for you today ? </s>', 9)
+Context 1--2: ('i need to buy a new refrigerator today . </s>', 10)
+Context 2--1: ('were you looking at a particular refrigerator ? </s>', 9)
+Target >> i like that kenmore refrigerator . </s>
+Sample 0 >> well's . </s>
+
+Batch 65 
+Context 0--1: ('what can i do for you today ? </s>', 9)
+Context 1--2: ('i need to buy a new refrigerator today . </s>', 10)
+Context 2--1: ('were you looking at a particular refrigerator ? </s>', 9)
+Context 3--2: ('i like that kenmore refrigerator . </s>', 7)
+Target >> this particular refrigerator is a very good choice . </s>
+Sample 0 >> yes . that nealy ? </s>
+
+Batch 66 
+Context 0--1: ('what can i do for you today ? </s>', 9)
+Context 1--2: ('i need to buy a new refrigerator today . </s>', 10)
+Context 2--1: ('were you looking at a particular refrigerator ? </s>', 9)
+Context 3--2: ('i like that kenmore refrigerator . </s>', 7)
+Context 4--1: ('this particular refrigerator is a very good choice . </s>', 10)
+Target >> tell me about it . </s>
+Sample 0 >> yes . that nealy is that nealy . </s>
+
+Batch 67 
+Context 1--2: ('i need to buy a new refrigerator today . </s>', 10)
+Context 2--1: ('were you looking at a particular refrigerator ? </s>', 9)
+Context 3--2: ('i like that kenmore refrigerator . </s>', 7)
+Context 4--1: ('this particular refrigerator is a very good choice . </s>', 10)
+Context 5--2: ('tell me about it . </s>', 6)
+Target >> not only is it affordable , but it comes with all the appliances . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 68 
+Context 2--1: ('were you looking at a particular refrigerator ? </s>', 9)
+Context 3--2: ('i like that kenmore refrigerator . </s>', 7)
+Context 4--1: ('this particular refrigerator is a very good choice . </s>', 10)
+Context 5--2: ('tell me about it . </s>', 6)
+Context 6--1: ('not only is it affordable , but it comes with all the appliances . </s>', 15)
+Target >> what are the appliances . </s>
+Sample 0 >> yes . it seems . </s>
+
+Batch 69 
+Context 3--2: ('i like that kenmore refrigerator . </s>', 7)
+Context 4--1: ('this particular refrigerator is a very good choice . </s>', 10)
+Context 5--2: ('tell me about it . </s>', 6)
+Context 6--1: ('not only is it affordable , but it comes with all the appliances . </s>', 15)
+Context 7--2: ('what are the appliances . </s>', 6)
+Target >> it has an ice maker , water dispenser , and plenty of room on the inside . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 70 
+Context 4--1: ('this particular refrigerator is a very good choice . </s>', 10)
+Context 5--2: ('tell me about it . </s>', 6)
+Context 6--1: ('not only is it affordable , but it comes with all the appliances . </s>', 15)
+Context 7--2: ('what are the appliances . </s>', 6)
+Context 8--1: ('it has an ice maker , water dispenser , and plenty of room on the inside . </s>', 18)
+Target >> i'd like to see it for myself . </s>
+Sample 0 >> yes . in fact is that's great !
+
+Batch 71 
+Context 5--2: ('tell me about it . </s>', 6)
+Context 6--1: ('not only is it affordable , but it comes with all the appliances . </s>', 15)
+Context 7--2: ('what are the appliances . </s>', 6)
+Context 8--1: ('it has an ice maker , water dispenser , and plenty of room on the inside . </s>', 18)
+Context 9--2: ("i ' d like to see it for myself . </s>", 11)
+Target >> go right ahead . </s>
+Sample 0 >> yes . </s>
+
+Batch 72 
+Context 5--1: ('not only is it affordable , but it comes with all the appliances . </s>', 15)
+Context 6--2: ('what are the appliances . </s>', 6)
+Context 7--1: ('it has an ice maker , water dispenser , and plenty of room on the inside . </s>', 18)
+Context 8--2: ("i ' d like to see it for myself . </s>", 11)
+Context 9--1: ('go right ahead . </s>', 5)
+Target >> i like what i see . __eou__ </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 73 
+Context 0--1: ("oh , well . it was fun to be the winner . but ... it ' s too big . i must be an extra small in the states . </s>", 31)
+Target >> so what about the tennis racket ? </s>
+Sample 0 >> yes . is that communicate's great . </s>
+
+Batch 74 
+Context 0--1: ("oh , well . it was fun to be the winner . but ... it ' s too big . i must be an extra small in the states . </s>", 31)
+Context 1--2: ('so what about the tennis racket ? </s>', 8)
+Target >> look ! it's amazing . i can't wait to try it out ! </s>
+Sample 0 >> yes . is it's great ! </s>
+
+Batch 75 
+Context 0--1: ("oh , well . it was fun to be the winner . but ... it ' s too big . i must be an extra small in the states . </s>", 31)
+Context 1--2: ('so what about the tennis racket ? </s>', 8)
+Context 2--1: ("look ! it ' s amazing . i can ' t wait to try it out ! </s>", 18)
+Target >> how much did that end up costing you ? </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 76 
+Context 0--1: ("oh , well . it was fun to be the winner . but ... it ' s too big . i must be an extra small in the states . </s>", 31)
+Context 1--2: ('so what about the tennis racket ? </s>', 8)
+Context 2--1: ("look ! it ' s amazing . i can ' t wait to try it out ! </s>", 18)
+Context 3--2: ('how much did that end up costing you ? </s>', 10)
+Target >> oh ... around twenty bucks . a bargain if you ask me . look at the picture of her playing with it ! </s>
+Sample 0 >> yes . that nealy . </s>
+
+Batch 77 
+Context 0--1: ("oh , well . it was fun to be the winner . but ... it ' s too big . i must be an extra small in the states . </s>", 31)
+Context 1--2: ('so what about the tennis racket ? </s>', 8)
+Context 2--1: ("look ! it ' s amazing . i can ' t wait to try it out ! </s>", 18)
+Context 3--2: ('how much did that end up costing you ? </s>', 10)
+Context 4--1: ('oh ... around twenty bucks . a bargain if you ask me . look at the picture of her playing with it ! </s>', 24)
+Target >> hey , two for one . that's a super deal . </s>
+Sample 0 >> yes . that nealy to do you need after '
+
+Batch 78 
+Context 1--2: ('so what about the tennis racket ? </s>', 8)
+Context 2--1: ("look ! it ' s amazing . i can ' t wait to try it out ! </s>", 18)
+Context 3--2: ('how much did that end up costing you ? </s>', 10)
+Context 4--1: ('oh ... around twenty bucks . a bargain if you ask me . look at the picture of her playing with it ! </s>', 24)
+Context 5--2: ("hey , two for one . that ' s a super deal . </s>", 14)
+Target >> and here's her signature ! __eou__ </s>
+Sample 0 >> yes . is that nealy ? </s>
+
+Batch 79 
+Context 0--1: ('can i help you ? </s>', 6)
+Target >> i'm looking for someone who works here , but i lost his business card . his name's long or sang or something like that . </s>
+Sample 0 >> yes . is that communicate's great for my
+
+Batch 80 
+Context 0--1: ('can i help you ? </s>', 6)
+Context 1--2: ("i ' m looking for someone who works here , but i lost his business card . his name ' s long or sang or something like that . </s>", 30)
+Target >> chang ? </s>
+Sample 0 >> yes . is there anything else . </s>
+
+Batch 81 
+Context 0--1: ('can i help you ? </s>', 6)
+Context 1--2: ("i ' m looking for someone who works here , but i lost his business card . his name ' s long or sang or something like that . </s>", 30)
+Context 2--1: ('chang ? </s>', 3)
+Target >> yeah , that sounds right . </s>
+Sample 0 >> well's for example . </s>
+
+Batch 82 
+Context 0--1: ('can i help you ? </s>', 6)
+Context 1--2: ("i ' m looking for someone who works here , but i lost his business card . his name ' s long or sang or something like that . </s>", 30)
+Context 2--1: ('chang ? </s>', 3)
+Context 3--2: ('yeah , that sounds right . </s>', 7)
+Target >> there are about twenty people named chang who work here . what department ? </s>
+Sample 0 >> yes . is that nealy is that nealy . </s>
+
+Batch 83 
+Context 0--1: ('can i help you ? </s>', 6)
+Context 1--2: ("i ' m looking for someone who works here , but i lost his business card . his name ' s long or sang or something like that . </s>", 30)
+Context 2--1: ('chang ? </s>', 3)
+Context 3--2: ('yeah , that sounds right . </s>', 7)
+Context 4--1: ('there are about twenty people named chang who work here . what department ? </s>', 15)
+Target >> let me think ... accounting , finance , something like that . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 84 
+Context 1--2: ("i ' m looking for someone who works here , but i lost his business card . his name ' s long or sang or something like that . </s>", 30)
+Context 2--1: ('chang ? </s>', 3)
+Context 3--2: ('yeah , that sounds right . </s>', 7)
+Context 4--1: ('there are about twenty people named chang who work here . what department ? </s>', 15)
+Context 5--2: ('let me think ... accounting , finance , something like that . </s>', 13)
+Target >> eric chang in accounting ? </s>
+Sample 0 >> yes . is there's get done ? </s>
+
+Batch 85 
+Context 2--1: ('chang ? </s>', 3)
+Context 3--2: ('yeah , that sounds right . </s>', 7)
+Context 4--1: ('there are about twenty people named chang who work here . what department ? </s>', 15)
+Context 5--2: ('let me think ... accounting , finance , something like that . </s>', 13)
+Context 6--1: ('eric chang in accounting ? </s>', 6)
+Target >> that's him ! </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 86 
+Context 3--2: ('yeah , that sounds right . </s>', 7)
+Context 4--1: ('there are about twenty people named chang who work here . what department ? </s>', 15)
+Context 5--2: ('let me think ... accounting , finance , something like that . </s>', 13)
+Context 6--1: ('eric chang in accounting ? </s>', 6)
+Context 7--2: ("that ' s him ! </s>", 6)
+Target >> i'll call him and tell him you're here . </s>
+Sample 0 >> yes . is it is that's great !
+
+Batch 87 
+Context 4--1: ('there are about twenty people named chang who work here . what department ? </s>', 15)
+Context 5--2: ('let me think ... accounting , finance , something like that . </s>', 13)
+Context 6--1: ('eric chang in accounting ? </s>', 6)
+Context 7--2: ("that ' s him ! </s>", 6)
+Context 8--1: ("i ' ll call him and tell him you ' re here . </s>", 14)
+Target >> i appreciate your help . </s>
+Sample 0 >> yes . it seems like that to go to leave
+
+Batch 88 
+Context 5--2: ('let me think ... accounting , finance , something like that . </s>', 13)
+Context 6--1: ('eric chang in accounting ? </s>', 6)
+Context 7--2: ("that ' s him ! </s>", 6)
+Context 8--1: ("i ' ll call him and tell him you ' re here . </s>", 14)
+Context 9--2: ('i appreciate your help . </s>', 6)
+Target >> would you like to have a seat over there ? it'll just be a minute . and can i have your name ? </s>
+Sample 0 >> yes . that nealy is to 82nd up customers .
+
+Batch 89 
+Context 5--1: ('eric chang in accounting ? </s>', 6)
+Context 6--2: ("that ' s him ! </s>", 6)
+Context 7--1: ("i ' ll call him and tell him you ' re here . </s>", 14)
+Context 8--2: ('i appreciate your help . </s>', 6)
+Context 9--1: ("would you like to have a seat over there ? it ' ll just be a minute . and can i have your name ? </s>", 26)
+Target >> here's my card . </s>
+Sample 0 >> yes . that nealy ? </s>
+
+Batch 90 
+Context 5--2: ("that ' s him ! </s>", 6)
+Context 6--1: ("i ' ll call him and tell him you ' re here . </s>", 14)
+Context 7--2: ('i appreciate your help . </s>', 6)
+Context 8--1: ("would you like to have a seat over there ? it ' ll just be a minute . and can i have your name ? </s>", 26)
+Context 9--2: ("here ' s my card . </s>", 7)
+Target >> ok . i'll have him come up to get you . __eou__ </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 91 
+Context 0--1: ("hello , sir . you ' re here to discuss the network settlement service , right ? </s>", 18)
+Target >> yes , that's right . we want as much info as possible before we agree to anything . </s>
+Sample 0 >> yes . is that communicate's great . </s>
+
+Batch 92 
+Context 0--1: ("hello , sir . you ' re here to discuss the network settlement service , right ? </s>", 18)
+Context 1--2: ("yes , that ' s right . we want as much info as possible before we agree to anything . </s>", 21)
+Target >> yes , it's important to be all <OOV> up before you enter into any agreement . to make full use of the network settlement service and take advantage of the whole banking system , we provide </s>
+Sample 0 >> yes . is that nealy . that nealy . </s>
+
+Batch 93 
+Context 0--1: ("hello , sir . you ' re here to discuss the network settlement service , right ? </s>", 18)
+Context 1--2: ("yes , that ' s right . we want as much info as possible before we agree to anything . </s>", 21)
+Context 2--1: ("yes , it ' s important to be all <OOV> up before you enter into any agreement . to make full use of the network settlement service and take advantage of the whole banking system , we provide </s>", 39)
+Context 3-2474: (', account inquiry , agency clearing to name but a few . </s>', 13)
+Target >> so , do you think our corporation will be eligible for this ? </s>
+Sample 0 >> yes . that nealy is that nealy to go to
+
+Batch 94 
+Context 0--1: ("hello , sir . you ' re here to discuss the network settlement service , right ? </s>", 18)
+Context 1--2: ("yes , that ' s right . we want as much info as possible before we agree to anything . </s>", 21)
+Context 2--1: ("yes , it ' s important to be all <OOV> up before you enter into any agreement . to make full use of the network settlement service and take advantage of the whole banking system , we provide </s>", 39)
+Context 3-2474: (', account inquiry , agency clearing to name but a few . </s>', 13)
+Context 4--2: ('so , do you think our corporation will be eligible for this ? </s>', 14)
+Target >> yes , and it's extremely simple . all you need to do is make a network settlement agreement with us . __eou__ </s>
+Sample 0 >> yes . that nealy in that at in kensington for
+
+Batch 95 
+Context 0--1: ('dear , time is up , let ’ s go there now . </s>', 14)
+Target >> just a minute . i ’ m putting on my clothes . </s>
+Sample 0 >> yes . is that communicate's great for my
+
+Batch 96 
+Context 0--1: ('dear , time is up , let ’ s go there now . </s>', 14)
+Context 1--2: ('just a minute . i ’ m putting on my clothes . </s>', 13)
+Target >> have you taken the key to the door ? </s>
+Sample 0 >> yes . that nealy is that nealy that at ?
+
+Batch 97 
+Context 0--1: ('dear , time is up , let ’ s go there now . </s>', 14)
+Context 1--2: ('just a minute . i ’ m putting on my clothes . </s>', 13)
+Context 2--1: ('have you taken the key to the door ? </s>', 10)
+Target >> yes . oh , dear , i can ’ t find my <OOV> . can you help me ? </s>
+Sample 0 >> yes . that nealy for my wife ? </s>
+
+Batch 98 
+Context 0--1: ('dear , time is up , let ’ s go there now . </s>', 14)
+Context 1--2: ('just a minute . i ’ m putting on my clothes . </s>', 13)
+Context 2--1: ('have you taken the key to the door ? </s>', 10)
+Context 3--2: ('yes . oh , dear , i can ’ t find my <OOV> . can you help me ? </s>', 20)
+Target >> where have you put it ? </s>
+Sample 0 >> yes . does is it in high blood pressure ?
+
+Batch 99 
+Context 0--1: ('dear , time is up , let ’ s go there now . </s>', 14)
+Context 1--2: ('just a minute . i ’ m putting on my clothes . </s>', 13)
+Context 2--1: ('have you taken the key to the door ? </s>', 10)
+Context 3--2: ('yes . oh , dear , i can ’ t find my <OOV> . can you help me ? </s>', 20)
+Context 4--1: ('where have you put it ? </s>', 7)
+Target >> i put it in the dressing room . </s>
+Sample 0 >> yes . that nealy . </s>
+
+Batch 100 
+Context 1--2: ('just a minute . i ’ m putting on my clothes . </s>', 13)
+Context 2--1: ('have you taken the key to the door ? </s>', 10)
+Context 3--2: ('yes . oh , dear , i can ’ t find my <OOV> . can you help me ? </s>', 20)
+Context 4--1: ('where have you put it ? </s>', 7)
+Context 5--2: ('i put it in the dressing room . </s>', 9)
+Target >> are you sure ? </s>
+Sample 0 >> yes . is that nealy in at . </s>
+
+Batch 101 
+Context 2--1: ('have you taken the key to the door ? </s>', 10)
+Context 3--2: ('yes . oh , dear , i can ’ t find my <OOV> . can you help me ? </s>', 20)
+Context 4--1: ('where have you put it ? </s>', 7)
+Context 5--2: ('i put it in the dressing room . </s>', 9)
+Context 6--1: ('are you sure ? </s>', 5)
+Target >> yes , quite sure . </s>
+Sample 0 >> yes . is that nealy in that at in kensington
+
+Batch 102 
+Context 3--2: ('yes . oh , dear , i can ’ t find my <OOV> . can you help me ? </s>', 20)
+Context 4--1: ('where have you put it ? </s>', 7)
+Context 5--2: ('i put it in the dressing room . </s>', 9)
+Context 6--1: ('are you sure ? </s>', 5)
+Context 7--2: ('yes , quite sure . </s>', 6)
+Target >> then , have you looked downstairs ? </s>
+Sample 0 >> yes . is that nealy that at 12 an emergency
+
+Batch 103 
+Context 4--1: ('where have you put it ? </s>', 7)
+Context 5--2: ('i put it in the dressing room . </s>', 9)
+Context 6--1: ('are you sure ? </s>', 5)
+Context 7--2: ('yes , quite sure . </s>', 6)
+Context 8--1: ('then , have you looked downstairs ? </s>', 8)
+Target >> yes , i ’ ve looked everywhere downstairs . </s>
+Sample 0 >> yes . is there's . </s>
+
+Batch 104 
+Context 5--2: ('i put it in the dressing room . </s>', 9)
+Context 6--1: ('are you sure ? </s>', 5)
+Context 7--2: ('yes , quite sure . </s>', 6)
+Context 8--1: ('then , have you looked downstairs ? </s>', 8)
+Context 9--2: ('yes , i ’ ve looked everywhere downstairs . </s>', 10)
+Target >> look , dear . it ’ s over there . </s>
+Sample 0 >> yes . is that nealy that at 12 to stay
+
+Batch 105 
+Context 5--1: ('are you sure ? </s>', 5)
+Context 6--2: ('yes , quite sure . </s>', 6)
+Context 7--1: ('then , have you looked downstairs ? </s>', 8)
+Context 8--2: ('yes , i ’ ve looked everywhere downstairs . </s>', 10)
+Context 9--1: ('look , dear . it ’ s over there . </s>', 11)
+Target >> where ? </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 106 
+Context 5--2: ('yes , quite sure . </s>', 6)
+Context 6--1: ('then , have you looked downstairs ? </s>', 8)
+Context 7--2: ('yes , i ’ ve looked everywhere downstairs . </s>', 10)
+Context 8--1: ('look , dear . it ’ s over there . </s>', 11)
+Context 9--2: ('where ? </s>', 3)
+Target >> on the floor . __eou__ </s>
+Sample 0 >> yes . is's do you need like an
+
+Batch 107 
+Context 0--1: ("excuse me , sir . you can ' t park here . </s>", 13)
+Target >> i am just waiting for my friends . it won't be long . </s>
+Sample 0 >> yes . is that communicate's great . </s>
+
+Batch 108 
+Context 0--1: ("excuse me , sir . you can ' t park here . </s>", 13)
+Context 1--2: ("i am just waiting for my friends . it won ' t be long . </s>", 16)
+Target >> sir , the curb here is not for parking . </s>
+Sample 0 >> yes . that nealy is that nealy that at in
+
+Batch 109 
+Context 0--1: ("excuse me , sir . you can ' t park here . </s>", 13)
+Context 1--2: ("i am just waiting for my friends . it won ' t be long . </s>", 16)
+Context 2--1: ('sir , the curb here is not for parking . </s>', 11)
+Target >> but i didn't see the sign , ma ’ am . </s>
+Sample 0 >> yes . is that nealy that nealy that nealy .
+
+Batch 110 
+Context 0--1: ("excuse me , sir . you can ' t park here . </s>", 13)
+Context 1--2: ("i am just waiting for my friends . it won ' t be long . </s>", 16)
+Context 2--1: ('sir , the curb here is not for parking . </s>', 11)
+Context 3--2: ("but i didn ' t see the sign , ma ’ am . </s>", 14)
+Target >> there is a sign at the corner of the street . when you turned in here , you should have seen it . </s>
+Sample 0 >> yes . that nealy is that nealy . </s>
+
+Batch 111 
+Context 0--1: ("excuse me , sir . you can ' t park here . </s>", 13)
+Context 1--2: ("i am just waiting for my friends . it won ' t be long . </s>", 16)
+Context 2--1: ('sir , the curb here is not for parking . </s>', 11)
+Context 3--2: ("but i didn ' t see the sign , ma ’ am . </s>", 14)
+Context 4--1: ('there is a sign at the corner of the street . when you turned in here , you should have seen it . </s>', 24)
+Target >> i didn't see it . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 112 
+Context 1--2: ("i am just waiting for my friends . it won ' t be long . </s>", 16)
+Context 2--1: ('sir , the curb here is not for parking . </s>', 11)
+Context 3--2: ("but i didn ' t see the sign , ma ’ am . </s>", 14)
+Context 4--1: ('there is a sign at the corner of the street . when you turned in here , you should have seen it . </s>', 24)
+Context 5--2: ("i didn ' t see it . </s>", 8)
+Target >> i am sorry , sir . i have to give you a ticket . you can appeal to the court within 14 days . you will avoid paying the fine if you can prove that you are not </s>
+Sample 0 >> yes . that nealy ? </s>
+
+Batch 113 
+Context 0--1: ('are you a goal - oriented person ? </s>', 9)
+Target >> yes , i am . i always make a plan before i do anything . </s>
+Sample 0 >> yes . is's get . </s>
+
+Batch 114 
+Context 0--1: ('are you a goal - oriented person ? </s>', 9)
+Context 1--2: ('yes , i am . i always make a plan before i do anything . </s>', 16)
+Target >> where do you want to be in 5 years ? </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 115 
+Context 0--1: ('are you a goal - oriented person ? </s>', 9)
+Context 1--2: ('yes , i am . i always make a plan before i do anything . </s>', 16)
+Context 2--1: ('where do you want to be in 5 years ? </s>', 11)
+Target >> i don't want to have a specific title . i just want to enjoy what i am doing . </s>
+Sample 0 >> yes . that nealy is that nealy that at .
+
+Batch 116 
+Context 0--1: ('are you a goal - oriented person ? </s>', 9)
+Context 1--2: ('yes , i am . i always make a plan before i do anything . </s>', 16)
+Context 2--1: ('where do you want to be in 5 years ? </s>', 11)
+Context 3--2: ("i don ' t want to have a specific title . i just want to enjoy what i am doing . </s>", 22)
+Target >> that sounds very reasonable . </s>
+Sample 0 >> yes , sir . </s>
+
+Batch 117 
+Context 0--1: ('are you a goal - oriented person ? </s>', 9)
+Context 1--2: ('yes , i am . i always make a plan before i do anything . </s>', 16)
+Context 2--1: ('where do you want to be in 5 years ? </s>', 11)
+Context 3--2: ("i don ' t want to have a specific title . i just want to enjoy what i am doing . </s>", 22)
+Context 4--1: ('that sounds very reasonable . </s>', 6)
+Target >> it's the most important thing to me . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 118 
+Context 1--2: ('yes , i am . i always make a plan before i do anything . </s>', 16)
+Context 2--1: ('where do you want to be in 5 years ? </s>', 11)
+Context 3--2: ("i don ' t want to have a specific title . i just want to enjoy what i am doing . </s>", 22)
+Context 4--1: ('that sounds very reasonable . </s>', 6)
+Context 5--2: ("it ' s the most important thing to me . </s>", 11)
+Target >> if you are hired , how long do you plan to stay with us ? </s>
+Sample 0 >> yes . is's do you need to like
+
+Batch 119 
+Context 2--1: ('where do you want to be in 5 years ? </s>', 11)
+Context 3--2: ("i don ' t want to have a specific title . i just want to enjoy what i am doing . </s>", 22)
+Context 4--1: ('that sounds very reasonable . </s>', 6)
+Context 5--2: ("it ' s the most important thing to me . </s>", 11)
+Context 6--1: ('if you are hired , how long do you plan to stay with us ? </s>', 16)
+Target >> that obviously depends on how things go - - whether i'm suited to the firm and the firm to me . </s>
+Sample 0 >> yes . is that nealy that's great .
+
+Batch 120 
+Context 3--2: ("i don ' t want to have a specific title . i just want to enjoy what i am doing . </s>", 22)
+Context 4--1: ('that sounds very reasonable . </s>', 6)
+Context 5--2: ("it ' s the most important thing to me . </s>", 11)
+Context 6--1: ('if you are hired , how long do you plan to stay with us ? </s>', 16)
+Context 7--2: ("that obviously depends on how things go - - whether i ' m suited to the firm and the firm to me . </s>", 24)
+Target >> tell me about some of your recent goals and what you do to achieve them . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 121 
+Context 4--1: ('that sounds very reasonable . </s>', 6)
+Context 5--2: ("it ' s the most important thing to me . </s>", 11)
+Context 6--1: ('if you are hired , how long do you plan to stay with us ? </s>', 16)
+Context 7--2: ("that obviously depends on how things go - - whether i ' m suited to the firm and the firm to me . </s>", 24)
+Context 8--1: ('tell me about some of your recent goals and what you do to achieve them . </s>', 17)
+Target >> i want to put my knowledge and experience to use in a challenging position . in order to achieve this goal , i just want to work step by step . </s>
+Sample 0 >> yes . is it's great ! </s>
+
+Batch 122 
+Context 5--2: ("it ' s the most important thing to me . </s>", 11)
+Context 6--1: ('if you are hired , how long do you plan to stay with us ? </s>', 16)
+Context 7--2: ("that obviously depends on how things go - - whether i ' m suited to the firm and the firm to me . </s>", 24)
+Context 8--1: ('tell me about some of your recent goals and what you do to achieve them . </s>', 17)
+Context 9--2: ('i want to put my knowledge and experience to use in a challenging position . in order to achieve this goal , i just want to work step by step . </s>', 32)
+Target >> what is your long - range objective ? </s>
+Sample 0 >> yes . is that nealy ? </s>
+
+Batch 123 
+Context 5--1: ('if you are hired , how long do you plan to stay with us ? </s>', 16)
+Context 6--2: ("that obviously depends on how things go - - whether i ' m suited to the firm and the firm to me . </s>", 24)
+Context 7--1: ('tell me about some of your recent goals and what you do to achieve them . </s>', 17)
+Context 8--2: ('i want to put my knowledge and experience to use in a challenging position . in order to achieve this goal , i just want to work step by step . </s>', 32)
+Context 9--1: ('what is your long - range objective ? </s>', 9)
+Target >> i haven't thought it over at all . </s>
+Sample 0 >> yes . is that nealy that nealy that's
+
+Batch 124 
+Context 5--2: ("that obviously depends on how things go - - whether i ' m suited to the firm and the firm to me . </s>", 24)
+Context 6--1: ('tell me about some of your recent goals and what you do to achieve them . </s>', 17)
+Context 7--2: ('i want to put my knowledge and experience to use in a challenging position . in order to achieve this goal , i just want to work step by step . </s>', 32)
+Context 8--1: ('what is your long - range objective ? </s>', 9)
+Context 9--2: ("i haven ' t thought it over at all . </s>", 11)
+Target >> what do you think is the most important thing when looking for a job ? </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 125 
+Context 5--1: ('tell me about some of your recent goals and what you do to achieve them . </s>', 17)
+Context 6--2: ('i want to put my knowledge and experience to use in a challenging position . in order to achieve this goal , i just want to work step by step . </s>', 32)
+Context 7--1: ('what is your long - range objective ? </s>', 9)
+Context 8--2: ("i haven ' t thought it over at all . </s>", 11)
+Context 9--1: ('what do you think is the most important thing when looking for a job ? </s>', 16)
+Target >> i think the most important thing is the interest in the job . __eou__ </s>
+Sample 0 >> yes's glowing . is that's great
+
+Batch 126 
+Context 0--1: ("i ' d like to open a current account . </s>", 11)
+Target >> certainly . may i see your social security and your id , please . </s>
+Sample 0 >> yes . is that communicate's great ! </s>
+
+Batch 127 
+Context 0--1: ("i ' d like to open a current account . </s>", 11)
+Context 1--2: ('certainly . may i see your social security and your id , please . </s>', 15)
+Target >> here you are . i wonder how much interest can i earn from a current account . </s>
+Sample 0 >> yes . that nealy . that nealy is that at
+
+Batch 128 
+Context 0--1: ("i ' d like to open a current account . </s>", 11)
+Context 1--2: ('certainly . may i see your social security and your id , please . </s>', 15)
+Context 2--1: ('here you are . i wonder how much interest can i earn from a current account . </s>', 18)
+Target >> oh , current accounts don't pay out interest . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 129 
+Context 0--1: ("i ' d like to open a current account . </s>", 11)
+Context 1--2: ('certainly . may i see your social security and your id , please . </s>', 15)
+Context 2--1: ('here you are . i wonder how much interest can i earn from a current account . </s>', 18)
+Context 3--2: ("oh , current accounts don ' t pay out interest . </s>", 12)
+Target >> why is that ? </s>
+Sample 0 >> yes . that nealy is it in high for another
+
+Batch 130 
+Context 0--1: ("i ' d like to open a current account . </s>", 11)
+Context 1--2: ('certainly . may i see your social security and your id , please . </s>', 15)
+Context 2--1: ('here you are . i wonder how much interest can i earn from a current account . </s>', 18)
+Context 3--2: ("oh , current accounts don ' t pay out interest . </s>", 12)
+Context 4--1: ('why is that ? </s>', 5)
+Target >> it's primarily designed for business transactions . that is , writing checks to pay for bills , buying things and sending money . we won't expect a large amount of deposit in a current </s>
+Sample 0 >> yes . is that nealy ? </s>
+
+Batch 131 
+Context 2--1: ('here you are . i wonder how much interest can i earn from a current account . </s>', 18)
+Context 3--2: ("oh , current accounts don ' t pay out interest . </s>", 12)
+Context 4--1: ('why is that ? </s>', 5)
+Context 5--2: ("it ' s primarily designed for business transactions . that is , writing checks to pay for bills , buying things and sending money . we won ' t expect a large amount of deposit in a current </s>", 39)
+Context 6-4: ('', 0)
+Target >> i see . how do i draw money for my own use then ? __eou__ </s>
+Sample 0 >> yes . in fact . </s>
+
+Batch 132 
+Context 0--1: ('good morning , helen . </s>', 6)
+Target >> good morning , steven . </s>
+Sample 0 >> yes . is that communicate's great ! </s>
+
+Batch 133 
+Context 0--1: ('good morning , helen . </s>', 6)
+Context 1--2: ('good morning , steven . </s>', 6)
+Target >> so , what's the status of our advertising campaign ? </s>
+Sample 0 >> yes , that communicate . </s>
+
+Batch 134 
+Context 0--1: ('good morning , helen . </s>', 6)
+Context 1--2: ('good morning , steven . </s>', 6)
+Context 2--1: ("so , what ' s the status of our advertising campaign ? </s>", 13)
+Target >> it'll be a national campaign starting next week . </s>
+Sample 0 >> yes . is's get . </s>
+
+Batch 135 
+Context 0--1: ('good morning , helen . </s>', 6)
+Context 1--2: ('good morning , steven . </s>', 6)
+Context 2--1: ("so , what ' s the status of our advertising campaign ? </s>", 13)
+Context 3--2: ("it ' ll be a national campaign starting next week . </s>", 12)
+Target >> what style will the ads be ? </s>
+Sample 0 >> well's . </s>
+
+Batch 136 
+Context 0--1: ('good morning , helen . </s>', 6)
+Context 1--2: ('good morning , steven . </s>', 6)
+Context 2--1: ("so , what ' s the status of our advertising campaign ? </s>", 13)
+Context 3--2: ("it ' ll be a national campaign starting next week . </s>", 12)
+Context 4--1: ('what style will the ads be ? </s>', 8)
+Target >> i suggest that we focus on slice of life , showing how you can beat the summer heat by biting into a cool ice - cream sandwich . </s>
+Sample 0 >> yes . that nealy . </s>
+
+Batch 137 
+Context 1--2: ('good morning , steven . </s>', 6)
+Context 2--1: ("so , what ' s the status of our advertising campaign ? </s>", 13)
+Context 3--2: ("it ' ll be a national campaign starting next week . </s>", 12)
+Context 4--1: ('what style will the ads be ? </s>', 8)
+Context 5--2: ('i suggest that we focus on slice of life , showing how you can beat the summer heat by biting into a cool ice - cream sandwich . </s>', 29)
+Target >> sounds like a good idea . will we have a new slogan ? </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 138 
+Context 2--1: ("so , what ' s the status of our advertising campaign ? </s>", 13)
+Context 3--2: ("it ' ll be a national campaign starting next week . </s>", 12)
+Context 4--1: ('what style will the ads be ? </s>', 8)
+Context 5--2: ('i suggest that we focus on slice of life , showing how you can beat the summer heat by biting into a cool ice - cream sandwich . </s>', 29)
+Context 6--1: ('sounds like a good idea . will we have a new slogan ? </s>', 14)
+Target >> definitely . __eou__ </s>
+Sample 0 >> yes . is's . </s>
+
+Batch 139 
+Context 0--1: ("i ' d like to taste some local dishes . what would you recommend ? </s>", 16)
+Target >> that's fine . you must try this dish . </s>
+Sample 0 >> yes . is that communicate's great to check
+
+Batch 140 
+Context 0--1: ("i ' d like to taste some local dishes . what would you recommend ? </s>", 16)
+Context 1--2: ("that ' s fine . you must try this dish . </s>", 12)
+Target >> could you tell me how this thing is cooked ? </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 141 
+Context 0--1: ("i ' d like to taste some local dishes . what would you recommend ? </s>", 16)
+Context 1--2: ("that ' s fine . you must try this dish . </s>", 12)
+Context 2--1: ('could you tell me how this thing is cooked ? </s>', 11)
+Target >> it's fish steamed and served with our special sauce . </s>
+Sample 0 >> yes . do you know what do you need to
+
+Batch 142 
+Context 0--1: ("i ' d like to taste some local dishes . what would you recommend ? </s>", 16)
+Context 1--2: ("that ' s fine . you must try this dish . </s>", 12)
+Context 2--1: ('could you tell me how this thing is cooked ? </s>', 11)
+Context 3--2: ("it ' s fish steamed and served with our special sauce . </s>", 13)
+Target >> is it good ? </s>
+Sample 0 >> yes . i'd like that at to be
+
+Batch 143 
+Context 0--1: ("i ' d like to taste some local dishes . what would you recommend ? </s>", 16)
+Context 1--2: ("that ' s fine . you must try this dish . </s>", 12)
+Context 2--1: ('could you tell me how this thing is cooked ? </s>', 11)
+Context 3--2: ("it ' s fish steamed and served with our special sauce . </s>", 13)
+Context 4--1: ('is it good ? </s>', 5)
+Target >> sure . it's a most popular dish . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 144 
+Context 1--2: ("that ' s fine . you must try this dish . </s>", 12)
+Context 2--1: ('could you tell me how this thing is cooked ? </s>', 11)
+Context 3--2: ("it ' s fish steamed and served with our special sauce . </s>", 13)
+Context 4--1: ('is it good ? </s>', 5)
+Context 5--2: ("sure . it ' s a most popular dish . </s>", 11)
+Target >> i think i'll try it , and give me some green salad together . </s>
+Sample 0 >> yes . if is there's great ! </s>
+
+Batch 145 
+Context 2--1: ('could you tell me how this thing is cooked ? </s>', 11)
+Context 3--2: ("it ' s fish steamed and served with our special sauce . </s>", 13)
+Context 4--1: ('is it good ? </s>', 5)
+Context 5--2: ("sure . it ' s a most popular dish . </s>", 11)
+Context 6--1: ("i think i ' ll try it , and give me some green salad together . </s>", 17)
+Target >> we have two <OOV> for salad . which one would you like ? </s>
+Sample 0 >> yes . is it's great ! </s>
+
+Batch 146 
+Context 3--2: ("it ' s fish steamed and served with our special sauce . </s>", 13)
+Context 4--1: ('is it good ? </s>', 5)
+Context 5--2: ("sure . it ' s a most popular dish . </s>", 11)
+Context 6--1: ("i think i ' ll try it , and give me some green salad together . </s>", 17)
+Context 7--2: ('we have two <OOV> for salad . which one would you like ? </s>', 14)
+Target >> what kind do you have ? </s>
+Sample 0 >> yes . is that nealy to . </s>
+
+Batch 147 
+Context 4--1: ('is it good ? </s>', 5)
+Context 5--2: ("sure . it ' s a most popular dish . </s>", 11)
+Context 6--1: ("i think i ' ll try it , and give me some green salad together . </s>", 17)
+Context 7--2: ('we have two <OOV> for salad . which one would you like ? </s>', 14)
+Context 8--1: ('what kind do you have ? </s>', 7)
+Target >> we have french and thousand island . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 148 
+Context 5--2: ("sure . it ' s a most popular dish . </s>", 11)
+Context 6--1: ("i think i ' ll try it , and give me some green salad together . </s>", 17)
+Context 7--2: ('we have two <OOV> for salad . which one would you like ? </s>', 14)
+Context 8--1: ('what kind do you have ? </s>', 7)
+Context 9--2: ('we have french and thousand island . </s>', 8)
+Target >> make it thousand island . __eou__ </s>
+Sample 0 >> yes . is there's get an international ?
+
+Batch 149 
+Context 0--1: ('taxi ! </s>', 3)
+Target >> where will you go , sir ? </s>
+Sample 0 >> yes . is there's get ? </s>
+
+Batch 150 
+Context 0--1: ('taxi ! </s>', 3)
+Context 1--2: ('where will you go , sir ? </s>', 8)
+Target >> friendship hotel . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 151 
+Context 0--1: ('taxi ! </s>', 3)
+Context 1--2: ('where will you go , sir ? </s>', 8)
+Context 2--1: ('friendship hotel . </s>', 4)
+Target >> ok , it's not far from here . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 152 
+Context 0--1: ('taxi ! </s>', 3)
+Context 1--2: ('where will you go , sir ? </s>', 8)
+Context 2--1: ('friendship hotel . </s>', 4)
+Context 3--2: ("ok , it ' s not far from here . </s>", 11)
+Target >> i have something important to do , can you fast the speed ? </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 153 
+Context 0--1: ('taxi ! </s>', 3)
+Context 1--2: ('where will you go , sir ? </s>', 8)
+Context 2--1: ('friendship hotel . </s>', 4)
+Context 3--2: ("ok , it ' s not far from here . </s>", 11)
+Context 4--1: ('i have something important to do , can you fast the speed ? </s>', 14)
+Target >> sure , i'll try my best . here we are . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 154 
+Context 1--2: ('where will you go , sir ? </s>', 8)
+Context 2--1: ('friendship hotel . </s>', 4)
+Context 3--2: ("ok , it ' s not far from here . </s>", 11)
+Context 4--1: ('i have something important to do , can you fast the speed ? </s>', 14)
+Context 5--2: ("sure , i ' ll try my best . here we are . </s>", 14)
+Target >> how much should i pay you ? </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 155 
+Context 2--1: ('friendship hotel . </s>', 4)
+Context 3--2: ("ok , it ' s not far from here . </s>", 11)
+Context 4--1: ('i have something important to do , can you fast the speed ? </s>', 14)
+Context 5--2: ("sure , i ' ll try my best . here we are . </s>", 14)
+Context 6--1: ('how much should i pay you ? </s>', 8)
+Target >> the reading on the meter is 15 yuan . </s>
+Sample 0 >> yes . . is that nealy ? </s>
+
+Batch 156 
+Context 3--2: ("ok , it ' s not far from here . </s>", 11)
+Context 4--1: ('i have something important to do , can you fast the speed ? </s>', 14)
+Context 5--2: ("sure , i ' ll try my best . here we are . </s>", 14)
+Context 6--1: ('how much should i pay you ? </s>', 8)
+Context 7--2: ('the reading on the meter is 15 yuan . </s>', 10)
+Target >> here's 20 yuan , keep the change . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 157 
+Context 4--1: ('i have something important to do , can you fast the speed ? </s>', 14)
+Context 5--2: ("sure , i ' ll try my best . here we are . </s>", 14)
+Context 6--1: ('how much should i pay you ? </s>', 8)
+Context 7--2: ('the reading on the meter is 15 yuan . </s>', 10)
+Context 8--1: ("here ' s 20 yuan , keep the change . </s>", 11)
+Target >> thank you very much . __eou__ </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 158 
+Context 0--1: ('mr . johnson ’ s office . cindy speaking . </s>', 11)
+Target >> hi , cindy . it ’ s michael <OOV> . is mr . johnson in ? </s>
+Sample 0 >> yes . is that communicate's great . </s>
+
+Batch 159 
+Context 0--1: ('mr . johnson ’ s office . cindy speaking . </s>', 11)
+Context 1--2: ('hi , cindy . it ’ s michael <OOV> . is mr . johnson in ? </s>', 17)
+Target >> no , i ’ m sorry , mr . <OOV> . he ’ s stepped out for a bit . would you like me to have him call you ? </s>
+Sample 0 >> yes . </s>
+
+Batch 160 
+Context 0--1: ('mr . johnson ’ s office . cindy speaking . </s>', 11)
+Context 1--2: ('hi , cindy . it ’ s michael <OOV> . is mr . johnson in ? </s>', 17)
+Context 2--1: ('no , i ’ m sorry , mr . <OOV> . he ’ s stepped out for a bit . would you like me to have him call you ? </s>', 31)
+Target >> yeah , that ’ ll be great . i ’ m on extension <OOV> . __eou__ </s>
+Sample 0 >> yes . that nealy is that nealy ? </s>
+
+Batch 161 
+Context 0--1: ('hi , mark . </s>', 5)
+Target >> hi , bill . i ’ d like to take the apartment i looked at yesterday . </s>
+Sample 0 >> yes . is that communicate's great for me
+
+Batch 162 
+Context 0--1: ('hi , mark . </s>', 5)
+Context 1--2: ('hi , bill . i ’ d like to take the apartment i looked at yesterday . </s>', 18)
+Target >> all right . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 163 
+Context 0--1: ('hi , mark . </s>', 5)
+Context 1--2: ('hi , bill . i ’ d like to take the apartment i looked at yesterday . </s>', 18)
+Context 2--1: ('all right . </s>', 4)
+Target >> so , what do we do now ? </s>
+Sample 0 >> yes . does is it in high blood pressure ?
+
+Batch 164 
+Context 0--1: ('hi , mark . </s>', 5)
+Context 1--2: ('hi , bill . i ’ d like to take the apartment i looked at yesterday . </s>', 18)
+Context 2--1: ('all right . </s>', 4)
+Context 3--2: ('so , what do we do now ? </s>', 9)
+Target >> this is the lease . you should read the lease very carefully before you sign it because it <OOV> your legal rights and responsibilities as a tenant . the lease also <OOV> our rights and responsibilities as <OOV> </s>
+Sample 0 >> yes . is that nealy ? </s>
+
+Batch 165 
+Context 1--2: ('hi , bill . i ’ d like to take the apartment i looked at yesterday . </s>', 18)
+Context 2--1: ('all right . </s>', 4)
+Context 3--2: ('so , what do we do now ? </s>', 9)
+Context 4--1: ('this is the lease . you should read the lease very carefully before you sign it because it <OOV> your legal rights and responsibilities as a tenant . the lease also <OOV> our rights and responsibilities as <OOV> </s>', 39)
+Context 5-2: ('', 0)
+Target >> okay . ( reads the lease ) so , according to the lease , i ’ ll deposit one month ’ s rent as a security deposit , and i have to pay the first month ’ s </s>
+Sample 0 >> yes . is that nealy that . </s>
+
+Batch 166 
+Context 3--2: ('so , what do we do now ? </s>', 9)
+Context 4--1: ('this is the lease . you should read the lease very carefully before you sign it because it <OOV> your legal rights and responsibilities as a tenant . the lease also <OOV> our rights and responsibilities as <OOV> </s>', 39)
+Context 5-2: ('', 0)
+Context 6--2: ('okay . ( reads the lease ) so , according to the lease , i ’ ll deposit one month ’ s rent as a security deposit , and i have to pay the first month ’ s </s>', 39)
+Context 7-20: ('. i understand that i ’ ll get the security deposit back when i move out if the apartment does not need any costly repairs . </s>', 27)
+Target >> yes . if you do not damage the apartment , you will get your security deposit back when you move out . </s>
+Sample 0 >> yes . that nealy is it's great !
+
+Batch 167 
+Context 4--1: ('this is the lease . you should read the lease very carefully before you sign it because it <OOV> your legal rights and responsibilities as a tenant . the lease also <OOV> our rights and responsibilities as <OOV> </s>', 39)
+Context 5-2: ('', 0)
+Context 6--2: ('okay . ( reads the lease ) so , according to the lease , i ’ ll deposit one month ’ s rent as a security deposit , and i have to pay the first month ’ s </s>', 39)
+Context 7-20: ('. i understand that i ’ ll get the security deposit back when i move out if the apartment does not need any costly repairs . </s>', 27)
+Context 8--1: ('yes . if you do not damage the apartment , you will get your security deposit back when you move out . </s>', 23)
+Target >> can i pay you by check ? </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 168 
+Context 5-2: ('', 0)
+Context 6--2: ('okay . ( reads the lease ) so , according to the lease , i ’ ll deposit one month ’ s rent as a security deposit , and i have to pay the first month ’ s </s>', 39)
+Context 7-20: ('. i understand that i ’ ll get the security deposit back when i move out if the apartment does not need any costly repairs . </s>', 27)
+Context 8--1: ('yes . if you do not damage the apartment , you will get your security deposit back when you move out . </s>', 23)
+Context 9--2: ('can i pay you by check ? </s>', 8)
+Target >> sure . a check will be fine . </s>
+Sample 0 >> yes . in fact is they up driver an apple
+
+Batch 169 
+Context 5--2: ('okay . ( reads the lease ) so , according to the lease , i ’ ll deposit one month ’ s rent as a security deposit , and i have to pay the first month ’ s </s>', 39)
+Context 6-20: ('. i understand that i ’ ll get the security deposit back when i move out if the apartment does not need any costly repairs . </s>', 27)
+Context 7--1: ('yes . if you do not damage the apartment , you will get your security deposit back when you move out . </s>', 23)
+Context 8--2: ('can i pay you by check ? </s>', 8)
+Context 9--1: ('sure . a check will be fine . </s>', 9)
+Target >> is there a laundry room in the basement ? </s>
+Sample 0 >> yes . if is there's right in for
+
+Batch 170 
+Context 5-20: ('. i understand that i ’ ll get the security deposit back when i move out if the apartment does not need any costly repairs . </s>', 27)
+Context 6--1: ('yes . if you do not damage the apartment , you will get your security deposit back when you move out . </s>', 23)
+Context 7--2: ('can i pay you by check ? </s>', 8)
+Context 8--1: ('sure . a check will be fine . </s>', 9)
+Context 9--2: ('is there a laundry room in the basement ? </s>', 10)
+Target >> yes . </s>
+Sample 0 >> yes . that's glowing . </s>
+
+Batch 171 
+Context 5--1: ('yes . if you do not damage the apartment , you will get your security deposit back when you move out . </s>', 23)
+Context 6--2: ('can i pay you by check ? </s>', 8)
+Context 7--1: ('sure . a check will be fine . </s>', 9)
+Context 8--2: ('is there a laundry room in the basement ? </s>', 10)
+Context 9--1: ('yes . </s>', 3)
+Target >> can i sign the lease right now ? __eou__ </s>
+Sample 0 >> yes . that nealy . </s>
+
+Batch 172 
+Context 0--1: ('good morning ! what can i do for you ? </s>', 11)
+Target >> i'm thinking of travelling to suzhou in july . could you recommend some tourist programs for that ? </s>
+Sample 0 >> yes . do you know what do you think in
+
+Batch 173 
+Context 0--1: ('good morning ! what can i do for you ? </s>', 11)
+Context 1--2: ("i ' m thinking of travelling to suzhou in july . could you recommend some tourist programs for that ? </s>", 21)
+Target >> with pleasure . we arrange two kinds of tourist programs for suzhou , a six - day tour by train and a five - day flying journey . </s>
+Sample 0 >> yes . that nealy is that nealy in at in
+
+Batch 174 
+Context 0--1: ('good morning ! what can i do for you ? </s>', 11)
+Context 1--2: ("i ' m thinking of travelling to suzhou in july . could you recommend some tourist programs for that ? </s>", 21)
+Context 2--1: ('with pleasure . we arrange two kinds of tourist programs for suzhou , a six - day tour by train and a five - day flying journey . </s>', 29)
+Target >> how much does a six - day tour by train cost ? </s>
+Sample 0 >> yes . is that nealy that nealy . </s>
+
+Batch 175 
+Context 0--1: ('good morning ! what can i do for you ? </s>', 11)
+Context 1--2: ("i ' m thinking of travelling to suzhou in july . could you recommend some tourist programs for that ? </s>", 21)
+Context 2--1: ('with pleasure . we arrange two kinds of tourist programs for suzhou , a six - day tour by train and a five - day flying journey . </s>', 29)
+Context 3--2: ('how much does a six - day tour by train cost ? </s>', 13)
+Target >> five hundred yuan . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 176 
+Context 0--1: ('good morning ! what can i do for you ? </s>', 11)
+Context 1--2: ("i ' m thinking of travelling to suzhou in july . could you recommend some tourist programs for that ? </s>", 21)
+Context 2--1: ('with pleasure . we arrange two kinds of tourist programs for suzhou , a six - day tour by train and a five - day flying journey . </s>', 29)
+Context 3--2: ('how much does a six - day tour by train cost ? </s>', 13)
+Context 4--1: ('five hundred yuan . </s>', 5)
+Target >> does that include hotels and meals ? </s>
+Sample 0 >> yes . is that nealy to that's great
+
+Batch 177 
+Context 1--2: ("i ' m thinking of travelling to suzhou in july . could you recommend some tourist programs for that ? </s>", 21)
+Context 2--1: ('with pleasure . we arrange two kinds of tourist programs for suzhou , a six - day tour by train and a five - day flying journey . </s>', 29)
+Context 3--2: ('how much does a six - day tour by train cost ? </s>', 13)
+Context 4--1: ('five hundred yuan . </s>', 5)
+Context 5--2: ('does that include hotels and meals ? </s>', 8)
+Target >> oh , yes , and admission tickets for places of interest as well . </s>
+Sample 0 >> yes . it says for another planet another planet shall
+
+Batch 178 
+Context 2--1: ('with pleasure . we arrange two kinds of tourist programs for suzhou , a six - day tour by train and a five - day flying journey . </s>', 29)
+Context 3--2: ('how much does a six - day tour by train cost ? </s>', 13)
+Context 4--1: ('five hundred yuan . </s>', 5)
+Context 5--2: ('does that include hotels and meals ? </s>', 8)
+Context 6--1: ('oh , yes , and admission tickets for places of interest as well . </s>', 15)
+Target >> that sounds reasonable . what about the five - day flying journey ? how much is that ? </s>
+Sample 0 >> yes . that nealy is that ? </s>
+
+Batch 179 
+Context 3--2: ('how much does a six - day tour by train cost ? </s>', 13)
+Context 4--1: ('five hundred yuan . </s>', 5)
+Context 5--2: ('does that include hotels and meals ? </s>', 8)
+Context 6--1: ('oh , yes , and admission tickets for places of interest as well . </s>', 15)
+Context 7--2: ('that sounds reasonable . what about the five - day flying journey ? how much is that ? </s>', 19)
+Target >> eight hundred and fifty yuan . </s>
+Sample 0 >> yes . </s>
+
+Batch 180 
+Context 4--1: ('five hundred yuan . </s>', 5)
+Context 5--2: ('does that include hotels and meals ? </s>', 8)
+Context 6--1: ('oh , yes , and admission tickets for places of interest as well . </s>', 15)
+Context 7--2: ('that sounds reasonable . what about the five - day flying journey ? how much is that ? </s>', 19)
+Context 8--1: ('eight hundred and fifty yuan . </s>', 7)
+Target >> covering all expenses ? </s>
+Sample 0 >> yes . is's . </s>
+
+Batch 181 
+Context 5--2: ('does that include hotels and meals ? </s>', 8)
+Context 6--1: ('oh , yes , and admission tickets for places of interest as well . </s>', 15)
+Context 7--2: ('that sounds reasonable . what about the five - day flying journey ? how much is that ? </s>', 19)
+Context 8--1: ('eight hundred and fifty yuan . </s>', 7)
+Context 9--2: ('covering all expenses ? </s>', 5)
+Target >> yes . but there is no half fare for children . they must pay full fare . __eou__ </s>
+Sample 0 >> yes . that nealy is it in for another another
+
+Batch 182 
+Context 0--1: ("i can ' t believe you wear jeans to the office ! are you trying to lose your job ? </s>", 21)
+Target >> of course not . i'm just <OOV> casual day . on fridays , the company doesn't require us to wear formal business attire . </s>
+Sample 0 >> yes . is that communicate's great ! </s>
+
+Batch 183 
+Context 0--1: ("i can ' t believe you wear jeans to the office ! are you trying to lose your job ? </s>", 21)
+Context 1--2: ("of course not . i ' m just <OOV> casual day . on fridays , the company doesn ' t require us to wear formal business attire . </s>", 29)
+Target >> wow ! nobody told me about that . won't the relaxed dress code damage the company image ? </s>
+Sample 0 >> yes , do you . </s>
+
+Batch 184 
+Context 0--1: ("i can ' t believe you wear jeans to the office ! are you trying to lose your job ? </s>", 21)
+Context 1--2: ("of course not . i ' m just <OOV> casual day . on fridays , the company doesn ' t require us to wear formal business attire . </s>", 29)
+Context 2--1: ("wow ! nobody told me about that . won ' t the relaxed dress code damage the company image ? </s>", 21)
+Target >> we don't think so . casual days are becoming more common , and we believe employees can maintain a professional image without wearing uncomfortable clothes . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 185 
+Context 0--1: ("i can ' t believe you wear jeans to the office ! are you trying to lose your job ? </s>", 21)
+Context 1--2: ("of course not . i ' m just <OOV> casual day . on fridays , the company doesn ' t require us to wear formal business attire . </s>", 29)
+Context 2--1: ("wow ! nobody told me about that . won ' t the relaxed dress code damage the company image ? </s>", 21)
+Context 3--2: ("we don ' t think so . casual days are becoming more common , and we believe employees can maintain a professional image without wearing uncomfortable clothes . </s>", 29)
+Target >> i guess it lets people express their individual tastes . but won't some people abuse it ? </s>
+Sample 0 >> yes . that nealy is to go to get at
+
+Batch 186 
+Context 0--1: ("i can ' t believe you wear jeans to the office ! are you trying to lose your job ? </s>", 21)
+Context 1--2: ("of course not . i ' m just <OOV> casual day . on fridays , the company doesn ' t require us to wear formal business attire . </s>", 29)
+Context 2--1: ("wow ! nobody told me about that . won ' t the relaxed dress code damage the company image ? </s>", 21)
+Context 3--2: ("we don ' t think so . casual days are becoming more common , and we believe employees can maintain a professional image without wearing uncomfortable clothes . </s>", 29)
+Context 4--1: ("i guess it lets people express their individual tastes . but won ' t some people abuse it ? </s>", 20)
+Target >> not really . besides , there is a separate dress code for casual day . people can't just wear whatever they want . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 187 
+Context 1--2: ("of course not . i ' m just <OOV> casual day . on fridays , the company doesn ' t require us to wear formal business attire . </s>", 29)
+Context 2--1: ("wow ! nobody told me about that . won ' t the relaxed dress code damage the company image ? </s>", 21)
+Context 3--2: ("we don ' t think so . casual days are becoming more common , and we believe employees can maintain a professional image without wearing uncomfortable clothes . </s>", 29)
+Context 4--1: ("i guess it lets people express their individual tastes . but won ' t some people abuse it ? </s>", 20)
+Context 5--2: ("not really . besides , there is a separate dress code for casual day . people can ' t just wear whatever they want . </s>", 26)
+Target >> it seems that a relaxed atmosphere could hinder productivity . </s>
+Sample 0 >> yes . in fact . why don't know
+
+Batch 188 
+Context 2--1: ("wow ! nobody told me about that . won ' t the relaxed dress code damage the company image ? </s>", 21)
+Context 3--2: ("we don ' t think so . casual days are becoming more common , and we believe employees can maintain a professional image without wearing uncomfortable clothes . </s>", 29)
+Context 4--1: ("i guess it lets people express their individual tastes . but won ' t some people abuse it ? </s>", 20)
+Context 5--2: ("not really . besides , there is a separate dress code for casual day . people can ' t just wear whatever they want . </s>", 26)
+Context 6--1: ('it seems that a relaxed atmosphere could hinder productivity . </s>', 11)
+Target >> believe it or not , it has the opposite effect . employees are actually more productive on casual days . __eou__ </s>
+Sample 0 >> yes . that nealy is that's great for
+
+Batch 189 
+Context 0--1: ('abc company , my name is lucy . how can i help you ? </s>', 15)
+Target >> hello , lucy , this is monica . i ’ m calling for the accountant position . i saw the information about the vacancy on your company ’ s website . is it still available ? </s>
+Sample 0 >> yes . is that communicate's great ! </s>
+
+Batch 190 
+Context 0--1: ('abc company , my name is lucy . how can i help you ? </s>', 15)
+Context 1--2: ('hello , lucy , this is monica . i ’ m calling for the accountant position . i saw the information about the vacancy on your company ’ s website . is it still available ? </s>', 37)
+Target >> thank you for your interest . the position is still available . have you already sent your cv to us ? </s>
+Sample 0 >> yes . do you know what do you need ?
+
+Batch 191 
+Context 0--1: ('abc company , my name is lucy . how can i help you ? </s>', 15)
+Context 1--2: ('hello , lucy , this is monica . i ’ m calling for the accountant position . i saw the information about the vacancy on your company ’ s website . is it still available ? </s>', 37)
+Context 2--1: ('thank you for your interest . the position is still available . have you already sent your cv to us ? </s>', 22)
+Target >> no , not yet . first , i want to check about the availability and see if you could give more information . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 192 
+Context 0--1: ('abc company , my name is lucy . how can i help you ? </s>', 15)
+Context 1--2: ('hello , lucy , this is monica . i ’ m calling for the accountant position . i saw the information about the vacancy on your company ’ s website . is it still available ? </s>', 37)
+Context 2--1: ('thank you for your interest . the position is still available . have you already sent your cv to us ? </s>', 22)
+Context 3--2: ('no , not yet . first , i want to check about the availability and see if you could give more information . </s>', 24)
+Target >> it is urgent for us to fill this position now and i would like to stress that english is a must because of the international contacts and most likely traveling abroad very soon . if all these is </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 193 
+Context 1--2: ('hello , lucy , this is monica . i ’ m calling for the accountant position . i saw the information about the vacancy on your company ’ s website . is it still available ? </s>', 37)
+Context 2--1: ('thank you for your interest . the position is still available . have you already sent your cv to us ? </s>', 22)
+Context 3--2: ('no , not yet . first , i want to check about the availability and see if you could give more information . </s>', 24)
+Context 4--1: ('it is urgent for us to fill this position now and i would like to stress that english is a must because of the international contacts and most likely traveling abroad very soon . if all these is </s>', 39)
+Context 5-159: ('you , i recommend you to mention these in your cover letter and send it to me directly . </s>', 20)
+Target >> the notification period of my current job is not that long and i ’ m quite profession to english and i am happy with the traveling abroad as i ’ m good dealing with the people from other </s>
+Sample 0 >> yes . is that nealy ? </s>
+
+Batch 194 
+Context 0--1: ('can i help you ? </s>', 6)
+Target >> yes , do you have any rooms available ? </s>
+Sample 0 >> yes . is that communicate's great ! </s>
+
+Batch 195 
+Context 0--1: ('can i help you ? </s>', 6)
+Context 1--2: ('yes , do you have any rooms available ? </s>', 10)
+Target >> a single ? </s>
+Sample 0 >> yes . that nealy . is that at 12 :
+
+Batch 196 
+Context 0--1: ('can i help you ? </s>', 6)
+Context 1--2: ('yes , do you have any rooms available ? </s>', 10)
+Context 2--1: ('a single ? </s>', 4)
+Target >> no . i need a double and three triples . my family is waiting for me in the car . </s>
+Sample 0 >> yes . is't worry at my name .
+
+Batch 197 
+Context 0--1: ('can i help you ? </s>', 6)
+Context 1--2: ('yes , do you have any rooms available ? </s>', 10)
+Context 2--1: ('a single ? </s>', 4)
+Context 3--2: ('no . i need a double and three triples . my family is waiting for me in the car . </s>', 21)
+Target >> please fill out this form , sir . </s>
+Sample 0 >> well's get . does . </s>
+
+Batch 198 
+Context 0--1: ('can i help you ? </s>', 6)
+Context 1--2: ('yes , do you have any rooms available ? </s>', 10)
+Context 2--1: ('a single ? </s>', 4)
+Context 3--2: ('no . i need a double and three triples . my family is waiting for me in the car . </s>', 21)
+Context 4--1: ('please fill out this form , sir . </s>', 9)
+Target >> ok ... here you are . </s>
+Sample 0 >> yes . that nealy is that nealy . </s>
+
+Batch 199 
+Context 1--2: ('yes , do you have any rooms available ? </s>', 10)
+Context 2--1: ('a single ? </s>', 4)
+Context 3--2: ('no . i need a double and three triples . my family is waiting for me in the car . </s>', 21)
+Context 4--1: ('please fill out this form , sir . </s>', 9)
+Context 5--2: ('ok ... here you are . </s>', 7)
+Target >> here are your keys . check out time is noon . </s>
+Sample 0 >> yes . is there anything else ball to 82nd for
+
+Batch 200 
+Context 2--1: ('a single ? </s>', 4)
+Context 3--2: ('no . i need a double and three triples . my family is waiting for me in the car . </s>', 21)
+Context 4--1: ('please fill out this form , sir . </s>', 9)
+Context 5--2: ('ok ... here you are . </s>', 7)
+Context 6--1: ('here are your keys . check out time is noon . </s>', 12)
+Target >> is breakfast included ? </s>
+Sample 0 >> yes . is that nealy ? </s>
+
+Batch 201 
+Context 3--2: ('no . i need a double and three triples . my family is waiting for me in the car . </s>', 21)
+Context 4--1: ('please fill out this form , sir . </s>', 9)
+Context 5--2: ('ok ... here you are . </s>', 7)
+Context 6--1: ('here are your keys . check out time is noon . </s>', 12)
+Context 7--2: ('is breakfast included ? </s>', 5)
+Target >> no . __eou__ </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 202 
+Context 0--1: ("why didn ' t you go to school yesterday ? </s>", 11)
+Target >> i stayed home because i wasn't feeling well . </s>
+Sample 0 >> yes . is that communicate's great for me
+
+Batch 203 
+Context 0--1: ("why didn ' t you go to school yesterday ? </s>", 11)
+Context 1--2: ("i stayed home because i wasn ' t feeling well . </s>", 12)
+Target >> what was your problem ? </s>
+Sample 0 >> yes . that nealy is that nealy that at in
+
+Batch 204 
+Context 0--1: ("why didn ' t you go to school yesterday ? </s>", 11)
+Context 1--2: ("i stayed home because i wasn ' t feeling well . </s>", 12)
+Context 2--1: ('what was your problem ? </s>', 6)
+Target >> my stomach was bothering me . </s>
+Sample 0 >> yes . is that nealy is that nealy . </s>
+
+Batch 205 
+Context 0--1: ("why didn ' t you go to school yesterday ? </s>", 11)
+Context 1--2: ("i stayed home because i wasn ' t feeling well . </s>", 12)
+Context 2--1: ('what was your problem ? </s>', 6)
+Context 3--2: ('my stomach was bothering me . </s>', 7)
+Target >> are you feeling any better ? </s>
+Sample 0 >> yes . it seems's for me my own
+
+Batch 206 
+Context 0--1: ("why didn ' t you go to school yesterday ? </s>", 11)
+Context 1--2: ("i stayed home because i wasn ' t feeling well . </s>", 12)
+Context 2--1: ('what was your problem ? </s>', 6)
+Context 3--2: ('my stomach was bothering me . </s>', 7)
+Context 4--1: ('are you feeling any better ? </s>', 7)
+Target >> i'm still feeling a little sick . </s>
+Sample 0 >> yes . is that nealy is that nealy that nealy
+
+Batch 207 
+Context 1--2: ("i stayed home because i wasn ' t feeling well . </s>", 12)
+Context 2--1: ('what was your problem ? </s>', 6)
+Context 3--2: ('my stomach was bothering me . </s>', 7)
+Context 4--1: ('are you feeling any better ? </s>', 7)
+Context 5--2: ("i ' m still feeling a little sick . </s>", 10)
+Target >> i'm going to the store , would you like any <OOV> pistol ? </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 208 
+Context 2--1: ('what was your problem ? </s>', 6)
+Context 3--2: ('my stomach was bothering me . </s>', 7)
+Context 4--1: ('are you feeling any better ? </s>', 7)
+Context 5--2: ("i ' m still feeling a little sick . </s>", 10)
+Context 6--1: ("i ' m going to the store , would you like any <OOV> pistol ? </s>", 16)
+Target >> i'd appreciate that . __eou__ </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 209 
+Context 0--1: ('excuse me , but please empty your pockets of all the metal things and put them in this tray . </s>', 21)
+Target >> including my keys ? </s>
+Sample 0 >> yes . is that communicate's great made .
+
+Batch 210 
+Context 0--1: ('excuse me , but please empty your pockets of all the metal things and put them in this tray . </s>', 21)
+Context 1--2: ('including my keys ? </s>', 5)
+Target >> yes , and please step over there . </s>
+Sample 0 >> yes . it says that's do you need
+
+Batch 211 
+Context 0--1: ('excuse me , but please empty your pockets of all the metal things and put them in this tray . </s>', 21)
+Context 1--2: ('including my keys ? </s>', 5)
+Context 2--1: ('yes , and please step over there . </s>', 9)
+Target >> all right . what shall i do now ? </s>
+Sample 0 >> yes . that nealy . </s>
+
+Batch 212 
+Context 0--1: ('excuse me , but please empty your pockets of all the metal things and put them in this tray . </s>', 21)
+Context 1--2: ('including my keys ? </s>', 5)
+Context 2--1: ('yes , and please step over there . </s>', 9)
+Context 3--2: ('all right . what shall i do now ? </s>', 10)
+Target >> just open your bags so we can check them . after that you can pick them up right behind that x - ray machine . </s>
+Sample 0 >> ok stalls ? </s>
+
+Batch 213 
+Context 0--1: ('excuse me , but please empty your pockets of all the metal things and put them in this tray . </s>', 21)
+Context 1--2: ('including my keys ? </s>', 5)
+Context 2--1: ('yes , and please step over there . </s>', 9)
+Context 3--2: ('all right . what shall i do now ? </s>', 10)
+Context 4--1: ('just open your bags so we can check them . after that you can pick them up right behind that x - ray machine . </s>', 26)
+Target >> i've got film in my bag . </s>
+Sample 0 >> yes . that nealy for my wife is broken in
+
+Batch 214 
+Context 1--2: ('including my keys ? </s>', 5)
+Context 2--1: ('yes , and please step over there . </s>', 9)
+Context 3--2: ('all right . what shall i do now ? </s>', 10)
+Context 4--1: ('just open your bags so we can check them . after that you can pick them up right behind that x - ray machine . </s>', 26)
+Context 5--2: ("i ' ve got film in my bag . </s>", 10)
+Target >> that's all right . this machine will not damage the film . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 215 
+Context 2--1: ('yes , and please step over there . </s>', 9)
+Context 3--2: ('all right . what shall i do now ? </s>', 10)
+Context 4--1: ('just open your bags so we can check them . after that you can pick them up right behind that x - ray machine . </s>', 26)
+Context 5--2: ("i ' ve got film in my bag . </s>", 10)
+Context 6--1: ("that ' s all right . this machine will not damage the film . </s>", 15)
+Target >> that's fine . </s>
+Sample 0 >> yes . it seems that's great ! </s>
+
+Batch 216 
+Context 3--2: ('all right . what shall i do now ? </s>', 10)
+Context 4--1: ('just open your bags so we can check them . after that you can pick them up right behind that x - ray machine . </s>', 26)
+Context 5--2: ("i ' ve got film in my bag . </s>", 10)
+Context 6--1: ("that ' s all right . this machine will not damage the film . </s>", 15)
+Context 7--2: ("that ' s fine . </s>", 6)
+Target >> can i have your boarding pass ? we need to stamp it . </s>
+Sample 0 >> yes . is there anything else ? </s>
+
+Batch 217 
+Context 4--1: ('just open your bags so we can check them . after that you can pick them up right behind that x - ray machine . </s>', 26)
+Context 5--2: ("i ' ve got film in my bag . </s>", 10)
+Context 6--1: ("that ' s all right . this machine will not damage the film . </s>", 15)
+Context 7--2: ("that ' s fine . </s>", 6)
+Context 8--1: ('can i have your boarding pass ? we need to stamp it . </s>', 14)
+Target >> sure . here you are . </s>
+Sample 0 >> yes . is that nealy ? </s>
+
+Batch 218 
+Context 5--2: ("i ' ve got film in my bag . </s>", 10)
+Context 6--1: ("that ' s all right . this machine will not damage the film . </s>", 15)
+Context 7--2: ("that ' s fine . </s>", 6)
+Context 8--1: ('can i have your boarding pass ? we need to stamp it . </s>', 14)
+Context 9--2: ('sure . here you are . </s>', 7)
+Target >> thank you . </s>
+Sample 0 >> yes . that nealy is that at 12 : 00
+
+Batch 219 
+Context 5--1: ("that ' s all right . this machine will not damage the film . </s>", 15)
+Context 6--2: ("that ' s fine . </s>", 6)
+Context 7--1: ('can i have your boarding pass ? we need to stamp it . </s>', 14)
+Context 8--2: ('sure . here you are . </s>', 7)
+Context 9--1: ('thank you . </s>', 4)
+Target >> am i through now ? </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 220 
+Context 5--2: ("that ' s fine . </s>", 6)
+Context 6--1: ('can i have your boarding pass ? we need to stamp it . </s>', 14)
+Context 7--2: ('sure . here you are . </s>', 7)
+Context 8--1: ('thank you . </s>', 4)
+Context 9--2: ('am i through now ? </s>', 6)
+Target >> yes . here is your boarding pass . </s>
+Sample 0 >> yes . do you like ? </s>
+
+Batch 221 
+Context 5--1: ('can i have your boarding pass ? we need to stamp it . </s>', 14)
+Context 6--2: ('sure . here you are . </s>', 7)
+Context 7--1: ('thank you . </s>', 4)
+Context 8--2: ('am i through now ? </s>', 6)
+Context 9--1: ('yes . here is your boarding pass . </s>', 9)
+Target >> thank you and goodbye . __eou__ </s>
+Sample 0 >> yes . that nealy . </s>
+
+Batch 222 
+Context 0--1: ('welcome to flash foot , sir . how can i help you ? </s>', 14)
+Target >> i ’ d like extra prints made of these photos . </s>
+Sample 0 >> yes . is there anything else in china kensington .
+
+Batch 223 
+Context 0--1: ('welcome to flash foot , sir . how can i help you ? </s>', 14)
+Context 1--2: ('i ’ d like extra prints made of these photos . </s>', 12)
+Target >> do you have your negatives ? </s>
+Sample 0 >> well's bus driver my mom . </s>
+
+Batch 224 
+Context 0--1: ('welcome to flash foot , sir . how can i help you ? </s>', 14)
+Context 1--2: ('i ’ d like extra prints made of these photos . </s>', 12)
+Context 2--1: ('do you have your negatives ? </s>', 7)
+Target >> yes . here they are . i ’ ve marked how many prints i want on each shot . </s>
+Sample 0 >> yes . that nealy to for my mom is that
+
+Batch 225 
+Context 0--1: ('welcome to flash foot , sir . how can i help you ? </s>', 14)
+Context 1--2: ('i ’ d like extra prints made of these photos . </s>', 12)
+Context 2--1: ('do you have your negatives ? </s>', 7)
+Context 3--2: ('yes . here they are . i ’ ve marked how many prints i want on each shot . </s>', 20)
+Target >> what size do you want the prints ? </s>
+Sample 0 >> yes . what is that nealy to go to stay
+
+Batch 226 
+Context 0--1: ('welcome to flash foot , sir . how can i help you ? </s>', 14)
+Context 1--2: ('i ’ d like extra prints made of these photos . </s>', 12)
+Context 2--1: ('do you have your negatives ? </s>', 7)
+Context 3--2: ('yes . here they are . i ’ ve marked how many prints i want on each shot . </s>', 20)
+Context 4--1: ('what size do you want the prints ? </s>', 9)
+Target >> four by six , except this one . i want a ten by thirteen print of this one . </s>
+Sample 0 >> yes . is that nealy ? </s>
+
+Batch 227 
+Context 1--2: ('i ’ d like extra prints made of these photos . </s>', 12)
+Context 2--1: ('do you have your negatives ? </s>', 7)
+Context 3--2: ('yes . here they are . i ’ ve marked how many prints i want on each shot . </s>', 20)
+Context 4--1: ('what size do you want the prints ? </s>', 9)
+Context 5--2: ('four by six , except this one . i want a ten by thirteen print of this one . </s>', 20)
+Target >> okay , they ’ ll be ready for you in an hour . __eou__ </s>
+Sample 0 >> yes . that nealy is it's do you
+
+Batch 228 
+Context 0--1: ('is there anything i can do for you ? </s>', 10)
+Target >> i'm interested in taking a tour to sydney . </s>
+Sample 0 >> yes . is that communicate's great to go
+
+Batch 229 
+Context 0--1: ('is there anything i can do for you ? </s>', 10)
+Context 1--2: ("i ' m interested in taking a tour to sydney . </s>", 12)
+Target >> well , we have a package tour there . </s>
+Sample 0 >> yes . do you know what do you like to
+
+Batch 230 
+Context 0--1: ('is there anything i can do for you ? </s>', 10)
+Context 1--2: ("i ' m interested in taking a tour to sydney . </s>", 12)
+Context 2--1: ('well , we have a package tour there . </s>', 10)
+Target >> how much does it cost ? </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 231 
+Context 0--1: ('is there anything i can do for you ? </s>', 10)
+Context 1--2: ("i ' m interested in taking a tour to sydney . </s>", 12)
+Context 2--1: ('well , we have a package tour there . </s>', 10)
+Context 3--2: ('how much does it cost ? </s>', 7)
+Target >> $ 600 . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 232 
+Context 0--1: ('is there anything i can do for you ? </s>', 10)
+Context 1--2: ("i ' m interested in taking a tour to sydney . </s>", 12)
+Context 2--1: ('well , we have a package tour there . </s>', 10)
+Context 3--2: ('how much does it cost ? </s>', 7)
+Context 4--1: ('$ 600 . </s>', 4)
+Target >> does that include the insurance ? </s>
+Sample 0 >> yes . is that nealy at . </s>
+
+Batch 233 
+Context 1--2: ("i ' m interested in taking a tour to sydney . </s>", 12)
+Context 2--1: ('well , we have a package tour there . </s>', 10)
+Context 3--2: ('how much does it cost ? </s>', 7)
+Context 4--1: ('$ 600 . </s>', 4)
+Context 5--2: ('does that include the insurance ? </s>', 7)
+Target >> of course . __eou__ </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 234 
+Context 0--1: ('hello , mr . wang . i am glad to meet you here at the fair . </s>', 18)
+Target >> like wise . take a seat , please . how about a cup of tea ? </s>
+Sample 0 >> yes . is that communicate's great ! </s>
+
+Batch 235 
+Context 0--1: ('hello , mr . wang . i am glad to meet you here at the fair . </s>', 18)
+Context 1--2: ('like wise . take a seat , please . how about a cup of tea ? </s>', 17)
+Target >> sure . thank you . it seems your business is prosperous . there are many customers here . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 236 
+Context 0--1: ('hello , mr . wang . i am glad to meet you here at the fair . </s>', 18)
+Context 1--2: ('like wise . take a seat , please . how about a cup of tea ? </s>', 17)
+Context 2--1: ('sure . thank you . it seems your business is prosperous . there are many customers here . </s>', 19)
+Target >> yes , it's not too bad . our sales are going up year after year . and we still have a large potential production capacity . </s>
+Sample 0 >> yes . is that nealy that nealy . </s>
+
+Batch 237 
+Context 0--1: ('hello , mr . wang . i am glad to meet you here at the fair . </s>', 18)
+Context 1--2: ('like wise . take a seat , please . how about a cup of tea ? </s>', 17)
+Context 2--1: ('sure . thank you . it seems your business is prosperous . there are many customers here . </s>', 19)
+Context 3--2: ("yes , it ' s not too bad . our sales are going up year after year . and we still have a large potential production capacity . </s>", 29)
+Target >> well , what do you think of choosing a commission representative or agent abroad to promote your sales ? </s>
+Sample 0 >> yes . is that nealy is that nealy . </s>
+
+Batch 238 
+Context 0--1: ('hello , mr . wang . i am glad to meet you here at the fair . </s>', 18)
+Context 1--2: ('like wise . take a seat , please . how about a cup of tea ? </s>', 17)
+Context 2--1: ('sure . thank you . it seems your business is prosperous . there are many customers here . </s>', 19)
+Context 3--2: ("yes , it ' s not too bad . our sales are going up year after year . and we still have a large potential production capacity . </s>", 29)
+Context 4--1: ('well , what do you think of choosing a commission representative or agent abroad to promote your sales ? </s>', 20)
+Target >> that's a good idea . so far , we have several agents abroad . </s>
+Sample 0 >> yes . is that nealy . </s>
+
+Batch 239 
+Context 1--2: ('like wise . take a seat , please . how about a cup of tea ? </s>', 17)
+Context 2--1: ('sure . thank you . it seems your business is prosperous . there are many customers here . </s>', 19)
+Context 3--2: ("yes , it ' s not too bad . our sales are going up year after year . and we still have a large potential production capacity . </s>", 29)
+Context 4--1: ('well , what do you think of choosing a commission representative or agent abroad to promote your sales ? </s>', 20)
+Context 5--2: ("that ' s a good idea . so far , we have several agents abroad . </s>", 17)
+Target >> we are willing to be your agent in thailand for hand - held tools . what do you think ? </s>
+Sample 0 >> yes . is that nealy ? </s>
+
+Batch 240 
+Context 2--1: ('sure . thank you . it seems your business is prosperous . there are many customers here . </s>', 19)
+Context 3--2: ("yes , it ' s not too bad . our sales are going up year after year . and we still have a large potential production capacity . </s>", 29)
+Context 4--1: ('well , what do you think of choosing a commission representative or agent abroad to promote your sales ? </s>', 20)
+Context 5--2: ("that ' s a good idea . so far , we have several agents abroad . </s>", 17)
+Context 6--1: ('we are willing to be your agent in thailand for hand - held tools . what do you think ? </s>', 21)
+Target >> that sounds good . </s>
+Sample 0 >> yes . that nealy . </s>
+
+Batch 241 
+Context 3--2: ("yes , it ' s not too bad . our sales are going up year after year . and we still have a large potential production capacity . </s>", 29)
+Context 4--1: ('well , what do you think of choosing a commission representative or agent abroad to promote your sales ? </s>', 20)
+Context 5--2: ("that ' s a good idea . so far , we have several agents abroad . </s>", 17)
+Context 6--1: ('we are willing to be your agent in thailand for hand - held tools . what do you think ? </s>', 21)
+Context 7--2: ('that sounds good . </s>', 5)
+Target >> then , what's your usual commission rate for your agents ? </s>
+Sample 0 >> yes . . that nealy ? </s>
+
+Batch 242 
+Context 4--1: ('well , what do you think of choosing a commission representative or agent abroad to promote your sales ? </s>', 20)
+Context 5--2: ("that ' s a good idea . so far , we have several agents abroad . </s>", 17)
+Context 6--1: ('we are willing to be your agent in thailand for hand - held tools . what do you think ? </s>', 21)
+Context 7--2: ('that sounds good . </s>', 5)
+Context 8--1: ("then , what ' s your usual commission rate for your agents ? </s>", 14)
+Target >> usually , we give a commission of 4 % to our agents . </s>
+Sample 0 >> yes . do you like to go to check my
+
+Batch 243 
+Context 5--2: ("that ' s a good idea . so far , we have several agents abroad . </s>", 17)
+Context 6--1: ('we are willing to be your agent in thailand for hand - held tools . what do you think ? </s>', 21)
+Context 7--2: ('that sounds good . </s>', 5)
+Context 8--1: ("then , what ' s your usual commission rate for your agents ? </s>", 14)
+Context 9--2: ('usually , we give a commission of 4 % to our agents . </s>', 14)
+Target >> 4 % is too low , i think . you see , we have a lot of work to do in sales promotion , such as advertising on radio or tv , printing <OOV> , leaflets , catalogues </s>
+Sample 0 >> yes . is that nealy that at 12't
+
+Batch 244 
+Context 5--2: ('that sounds good . </s>', 5)
+Context 6--1: ("then , what ' s your usual commission rate for your agents ? </s>", 14)
+Context 7--2: ('usually , we give a commission of 4 % to our agents . </s>', 14)
+Context 8--1: ('4 % is too low , i think . you see , we have a lot of work to do in sales promotion , such as advertising on radio or tv , printing <OOV> , leaflets , catalogues </s>', 39)
+Context 9-43: ('. it all costs money , 4 % is not enough . </s>', 13)

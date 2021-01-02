@@ -2,3 +2,5 @@
 data/
 documents/
 output/
+**/*.pptx
+**/*.pkl
